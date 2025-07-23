@@ -1,0 +1,1001 @@
+TransactionID,OrderDate,DeliveryDate,SupplierName,SupplierCategory,Department,ItemDescription,Quantity,UnitPrice,TotalPrice,ContractReference,SavingsIdentified,SavingsRealized,PaymentTermsDays
+TRX00001,01/04/2025,13/04/2025,"Estrada, Valentine and Baker",IT Services,Patient Care,Southern Service/Product,3,£12.22,£36.66,,0,0,60
+TRX00002,19/07/2023,26/07/2023,"Davis, Miles and Rodriguez",Facilities Maintenance,Patient Care,Country Service/Product,5,£515.46,"£2,577.30",CON2064,0,0,30
+TRX00003,25/07/2023,18/08/2023,Jenkins PLC,Consulting,Operations,General Service/Product,3,£118.58,£355.74,CON5454,0,0,60
+TRX00004,29/04/2025,20/05/2025,Green-Smith,Medical Supplies,IT,Respond Service/Product,3,£853.89,"£2,561.67",CON6705,0,0,90
+TRX00005,17/10/2024,21/10/2024,Avery PLC,Medical Supplies,Finance,Material Service/Product,6,£217.61,"£1,305.66",CON5183,0,0,90
+TRX00006,06/02/2024,03/03/2024,Armstrong-Skinner,Office Equipment,Finance,Conference Service/Product,4,£233.53,£934.12,,0,0,90
+TRX00007,02/09/2024,10/09/2024,Davis Ltd,Facilities Maintenance,Patient Care,Apply Service/Product,4,£132.12,£528.48,,0,0,60
+TRX00008,15/12/2023,20/12/2023,Acevedo Group,Facilities Maintenance,HR,Bank Service/Product,5,£53.14,£265.70,,31.76,7.52,90
+TRX00009,20/10/2024,28/10/2024,Garrett Inc,Medical Supplies,IT,One Service/Product,7,£620.74,"£4,345.18",CON8647,0,0,60
+TRX00010,20/12/2024,25/12/2024,Green-Huff,IT Services,Patient Care,There Service/Product,10,£728.56,"£7,285.60",CON7689,634.03,474.1,30
+TRX00011,11/11/2023,03/12/2023,Wilson-Garrett,Consulting,HR,Pay Service/Product,8,£751.31,"£6,010.48",CON3177,0,0,60
+TRX00012,03/02/2025,03/03/2025,Black PLC,Medical Supplies,IT,Seven Service/Product,7,£672.76,"£4,709.32",,0,0,30
+TRX00013,23/10/2024,04/11/2024,Johns-Duncan,IT Services,Finance,Standard Service/Product,2,£960.48,"£1,920.96",,0,0,30
+TRX00014,01/11/2024,13/11/2024,"Berg, Obrien and Wright",IT Services,IT,Campaign Service/Product,2,£174.31,£348.62,CON1651,0,0,60
+TRX00015,11/11/2024,26/11/2024,Perkins Ltd,Logistics,HR,Investment Service/Product,3,£256.46,£769.38,,0,0,30
+TRX00016,02/12/2024,19/12/2024,Carson-Smith,Facilities Maintenance,IT,Hundred Service/Product,5,£975.96,"£4,879.80",CON8024,0,0,90
+TRX00017,26/09/2023,22/10/2023,Wilkinson-Kelly,Consulting,IT,Option Service/Product,4,£798.27,"£3,193.08",,325.67,118.92,60
+TRX00018,18/12/2023,04/01/2024,"Andrade, Whitaker and Crawford",Medical Supplies,Patient Care,Very Service/Product,8,£782.92,"£6,263.36",CON5625,0,0,60
+TRX00019,07/11/2024,20/11/2024,Reed Group,Medical Supplies,Operations,Wife Service/Product,3,£42.16,£126.48,CON5463,0,0,90
+TRX00020,02/08/2024,17/08/2024,Mitchell-Ramirez,Office Equipment,Operations,Stop Service/Product,7,£527.36,"£3,691.52",CON3159,0,0,90
+TRX00021,23/08/2024,30/08/2024,Johnson-Allen,Medical Supplies,HR,Watch Service/Product,9,£768.03,"£6,912.27",,1293.41,323.54,60
+TRX00022,12/08/2024,10/09/2024,"Martin, Mathews and Preston",Office Equipment,IT,Deep Service/Product,6,£334.05,"£2,004.30",,0,0,60
+TRX00023,08/01/2024,31/01/2024,Scott-Johnson,Office Equipment,Admin,Find Service/Product,8,£56.17,£449.36,CON6011,39.55,18.63,60
+TRX00024,19/05/2025,12/06/2025,Martin-Rodriguez,IT Services,Admin,Cold Service/Product,8,£392.06,"£3,136.48",,247.38,129.95,30
+TRX00025,05/09/2024,10/09/2024,"Bowers, Gibbs and Gregory",Office Equipment,Admin,Baby Service/Product,4,£267.95,"£1,071.80",CON9396,0,0,90
+TRX00026,24/06/2025,18/07/2025,Perry Inc,Facilities Maintenance,HR,Send Service/Product,6,£544.05,"£3,264.30",CON1923,501.79,252.15,30
+TRX00027,05/10/2024,28/10/2024,Bender Inc,IT Services,IT,Unit Service/Product,10,£770.77,"£7,707.70",CON6198,0,0,90
+TRX00028,18/01/2025,30/01/2025,Thompson Ltd,Office Equipment,IT,Father Service/Product,5,£990.12,"£4,950.60",,0,0,30
+TRX00029,16/12/2024,12/01/2025,"Baker, Shields and Anderson",Logistics,HR,Sound Service/Product,10,£160.50,"£1,605.00",CON6392,0,0,90
+TRX00030,24/04/2025,03/05/2025,Hutchinson-Jones,Medical Supplies,Finance,Fire Service/Product,6,£989.96,"£5,939.76",CON8243,814.68,142.47,60
+TRX00031,29/07/2024,05/08/2024,"Sawyer, Jones and Stevens",Medical Supplies,Admin,On Service/Product,2,£546.77,"£1,093.54",,0,0,30
+TRX00032,02/11/2023,16/11/2023,"Novak, Stark and Travis",Medical Supplies,Operations,Present Service/Product,6,£432.86,"£2,597.16",CON6607,0,0,60
+TRX00033,11/04/2025,04/05/2025,"Holmes, Taylor and Haas",Medical Supplies,Operations,Card Service/Product,6,£448.70,"£2,692.20",CON9163,0,0,60
+TRX00034,23/02/2025,01/03/2025,"Jones, Mercado and Reed",Office Equipment,Admin,Cut Service/Product,5,£290.59,"£1,452.95",,0,0,30
+TRX00035,01/03/2024,12/03/2024,Hoffman and Sons,Office Equipment,Admin,Kind Service/Product,8,£433.17,"£3,465.36",,523.7,260.01,90
+TRX00036,07/08/2023,12/08/2023,"Wilson, Gonzalez and Ellis",Logistics,Finance,Foot Service/Product,8,£311.66,"£2,493.28",,0,0,30
+TRX00037,22/09/2024,08/10/2024,Dixon-Burns,Medical Supplies,HR,Receive Service/Product,5,£137.46,£687.30,,0,0,90
+TRX00038,10/09/2023,03/10/2023,Stokes-Petty,Consulting,Admin,Vote Service/Product,6,£114.72,£688.32,CON9555,0,0,60
+TRX00039,08/09/2023,27/09/2023,Hall-Mata,Medical Supplies,Admin,Out Service/Product,5,£403.46,"£2,017.30",CON6708,0,0,60
+TRX00040,04/04/2024,09/04/2024,Dodson LLC,Facilities Maintenance,Patient Care,Arm Service/Product,1,£215.28,£215.28,CON9503,0,0,60
+TRX00041,24/08/2024,12/09/2024,"White, Smith and Walker",Office Equipment,Finance,Fight Service/Product,4,£515.00,"£2,060.00",CON9820,131.51,124.64,60
+TRX00042,30/10/2024,19/11/2024,"Matthews, Gibson and Torres",Office Equipment,Patient Care,Attorney Service/Product,2,£116.91,£233.82,CON1141,43.28,35.86,60
+TRX00043,04/11/2024,23/11/2024,Peters and Sons,Consulting,Finance,Goal Service/Product,8,£937.32,"£7,498.56",CON4535,0,0,90
+TRX00044,24/12/2024,31/12/2024,Miles Ltd,Medical Supplies,Patient Care,Hope Service/Product,1,£316.20,£316.20,CON6040,0,0,30
+TRX00045,08/04/2024,11/04/2024,Jordan Group,Consulting,Operations,Several Service/Product,3,£969.23,"£2,907.69",,241.27,123.35,90
+TRX00046,27/08/2023,11/09/2023,"Cummings, Jackson and Davenport",Consulting,HR,Police Service/Product,1,£366.92,£366.92,CON8999,0,0,30
+TRX00047,10/04/2024,05/05/2024,Newton Group,Medical Supplies,Operations,Purpose Service/Product,3,£86.13,£258.39,CON1842,0,0,60
+TRX00048,20/08/2023,03/09/2023,Mullen Inc,Consulting,Operations,Must Service/Product,7,£885.61,"£6,199.27",CON5979,0,0,60
+TRX00049,07/04/2024,19/04/2024,Summers-Prince,Consulting,Admin,At Service/Product,9,£423.92,"£3,815.28",CON5092,359.66,317.12,90
+TRX00050,30/09/2024,09/10/2024,Smith LLC,Consulting,IT,Drive Service/Product,6,£288.53,"£1,731.18",,0,0,90
+TRX00051,29/05/2024,12/06/2024,"Mann, Wilson and Little",IT Services,Operations,Bar Service/Product,10,£802.99,"£8,029.90",CON7278,0,0,60
+TRX00052,20/12/2024,25/12/2024,Miller-Miller,Office Equipment,IT,Store Service/Product,3,£179.37,£538.11,CON3455,0,0,60
+TRX00053,29/08/2023,08/09/2023,Weber-Williams,Medical Supplies,Finance,By Service/Product,3,£961.65,"£2,884.95",CON1833,0,0,90
+TRX00054,05/12/2024,26/12/2024,Klein Group,IT Services,HR,Small Service/Product,10,£81.61,£816.10,CON9900,0,0,30
+TRX00055,17/03/2025,02/04/2025,Haas Group,IT Services,Operations,Quickly Service/Product,2,£735.77,"£1,471.54",CON2339,229.01,27.56,60
+TRX00056,24/11/2023,28/11/2023,Walker Group,Medical Supplies,IT,Step Service/Product,10,£792.30,"£7,923.00",CON2136,0,0,90
+TRX00057,22/09/2023,29/09/2023,Robinson PLC,Medical Supplies,Operations,Keep Service/Product,7,£147.84,"£1,034.88",CON1285,0,0,90
+TRX00058,29/05/2024,01/06/2024,"Guzman, Gregory and Miller",Logistics,Operations,Page Service/Product,9,£159.81,"£1,438.29",CON2542,0,0,60
+TRX00059,09/04/2025,29/04/2025,Cole Group,IT Services,Admin,Money Service/Product,6,£370.29,"£2,221.74",CON9675,0,0,90
+TRX00060,12/01/2025,27/01/2025,Lopez and Sons,IT Services,Finance,Thousand Service/Product,1,£60.21,£60.21,CON1061,0,0,30
+TRX00061,17/06/2024,09/07/2024,"Thomas, Martinez and Medina",Logistics,IT,Director Service/Product,9,£647.09,"£5,823.81",CON7834,521.72,507.52,90
+TRX00062,01/12/2023,24/12/2023,Mcintyre LLC,Logistics,HR,Church Service/Product,3,£549.99,"£1,649.97",CON8597,0,0,60
+TRX00063,09/09/2024,02/10/2024,Leonard PLC,Consulting,IT,Task Service/Product,1,£751.11,£751.11,,0,0,90
+TRX00064,09/06/2024,28/06/2024,Cooper Group,Logistics,Patient Care,Whatever Service/Product,6,£911.87,"£5,471.22",CON8353,0,0,30
+TRX00065,19/01/2024,03/02/2024,"Johnson, Baker and Holmes",Logistics,IT,Measure Service/Product,9,£917.22,"£8,254.98",,0,0,30
+TRX00066,30/03/2025,22/04/2025,Rivera-Rose,Facilities Maintenance,HR,Much Service/Product,6,£720.44,"£4,322.64",CON4127,0,0,90
+TRX00067,14/02/2024,27/02/2024,Russell-Evans,IT Services,IT,Special Service/Product,2,£649.16,"£1,298.32",CON1928,0,0,30
+TRX00068,13/08/2024,19/08/2024,"Thomas, Clark and Bush",Facilities Maintenance,Patient Care,Education Service/Product,5,£270.27,"£1,351.35",,72.42,72.33,30
+TRX00069,02/11/2024,02/12/2024,"Woods, Wagner and Ward",Medical Supplies,IT,Charge Service/Product,2,£850.83,"£1,701.66",CON4336,0,0,30
+TRX00070,04/04/2024,12/04/2024,Harris PLC,Medical Supplies,Patient Care,Nor Service/Product,4,£81.15,£324.60,,22.84,3.95,30
+TRX00071,07/08/2024,11/08/2024,Robles-Buchanan,Logistics,Admin,Others Service/Product,10,£919.94,"£9,199.40",CON6377,505.96,493.33,30
+TRX00072,04/03/2024,07/03/2024,Hawkins PLC,Consulting,Operations,Professor Service/Product,6,£722.11,"£4,332.66",CON2796,0,0,90
+TRX00073,20/12/2024,30/12/2024,"Richardson, Mcdowell and Rice",Medical Supplies,Finance,Establish Service/Product,5,£365.76,"£1,828.80",CON7020,0,0,90
+TRX00074,22/12/2024,07/01/2025,Peterson Inc,Consulting,Finance,Attorney Service/Product,6,£380.85,"£2,285.10",,0,0,60
+TRX00075,16/12/2024,11/01/2025,Harvey LLC,Consulting,IT,Policy Service/Product,3,£317.37,£952.11,,0,0,60
+TRX00076,27/12/2023,15/01/2024,Barnes Inc,Facilities Maintenance,HR,Pull Service/Product,8,£183.88,"£1,471.04",,0,0,60
+TRX00077,09/02/2025,12/02/2025,"Moran, Martin and Harrison",Office Equipment,Admin,Career Service/Product,1,£901.91,£901.91,CON3179,0,0,30
+TRX00078,27/10/2023,19/11/2023,Edwards Ltd,Facilities Maintenance,Admin,Middle Service/Product,1,£516.05,£516.05,,0,0,60
+TRX00079,04/02/2025,06/03/2025,"Lopez, Moran and Christensen",Consulting,Finance,Model Service/Product,2,£15.97,£31.94,CON8434,0,0,90
+TRX00080,13/02/2025,09/03/2025,Williamson Inc,IT Services,IT,Show Service/Product,1,£20.12,£20.12,CON8347,0,0,90
+TRX00081,11/10/2024,10/11/2024,Warren Inc,IT Services,Patient Care,Sign Service/Product,6,£266.55,"£1,599.30",,0,0,60
+TRX00082,05/06/2025,29/06/2025,"Garcia, Lewis and Graves",Office Equipment,Patient Care,New Service/Product,6,£520.98,"£3,125.88",CON8581,247.39,58.16,60
+TRX00083,24/10/2024,22/11/2024,Williams Ltd,Logistics,HR,Series Service/Product,9,£586.34,"£5,277.06",CON7365,0,0,90
+TRX00084,05/09/2024,13/09/2024,Valencia-Potter,IT Services,Patient Care,Though Service/Product,9,£222.47,"£2,002.23",,279.29,34.7,60
+TRX00085,18/06/2024,29/06/2024,Hartman-Jackson,Medical Supplies,Patient Care,Degree Service/Product,3,£722.83,"£2,168.49",,0,0,90
+TRX00086,01/08/2023,16/08/2023,Brown LLC,Facilities Maintenance,Admin,Head Service/Product,3,£239.64,£718.92,CON7623,87.05,74.05,90
+TRX00087,31/03/2025,29/04/2025,Garcia Inc,Facilities Maintenance,Finance,Service Service/Product,2,£182.42,£364.84,CON9455,0,0,60
+TRX00088,24/07/2024,07/08/2024,Simmons and Sons,IT Services,IT,Job Service/Product,7,£613.73,"£4,296.11",,0,0,30
+TRX00089,18/12/2024,12/01/2025,Adams and Sons,Medical Supplies,Operations,Important Service/Product,1,£49.84,£49.84,CON2188,6.92,3.48,60
+TRX00090,03/02/2025,28/02/2025,"Williams, Moss and Montgomery",Office Equipment,Operations,Condition Service/Product,4,£878.36,"£3,513.44",CON6785,472.65,125.74,60
+TRX00091,12/12/2024,24/12/2024,"Mitchell, Hoffman and Beck",Facilities Maintenance,Patient Care,Hit Service/Product,7,£526.30,"£3,684.10",,0,0,90
+TRX00092,04/06/2024,25/06/2024,"Monroe, Mitchell and Hanson",Office Equipment,Patient Care,Recent Service/Product,4,£533.31,"£2,133.24",,209.22,50,60
+TRX00093,15/10/2023,20/10/2023,Spencer-Mclaughlin,Medical Supplies,Operations,Exactly Service/Product,6,£240.15,"£1,440.90",,0,0,30
+TRX00094,01/03/2024,22/03/2024,Stanley-Bennett,Logistics,Patient Care,Develop Service/Product,10,£421.96,"£4,219.60",CON3640,0,0,60
+TRX00095,23/07/2023,12/08/2023,Ford Ltd,Office Equipment,Patient Care,Threat Service/Product,3,£607.39,"£1,822.17",CON7735,0,0,60
+TRX00096,13/05/2024,23/05/2024,Stark Ltd,Office Equipment,Patient Care,Would Service/Product,3,£628.78,"£1,886.34",CON9415,0,0,90
+TRX00097,30/07/2023,06/08/2023,Ellis LLC,Office Equipment,HR,News Service/Product,3,£434.98,"£1,304.94",CON9308,0,0,60
+TRX00098,22/05/2025,31/05/2025,Rodriguez Ltd,Facilities Maintenance,Patient Care,Send Service/Product,9,£797.42,"£7,176.78",CON2156,1132.13,365.8,60
+TRX00099,06/03/2025,09/03/2025,Carter PLC,IT Services,Finance,Choose Service/Product,1,£596.38,£596.38,CON2530,0,0,30
+TRX00100,28/11/2023,16/12/2023,Stephenson-Hull,Consulting,HR,Nothing Service/Product,10,£215.92,"£2,159.20",CON4789,0,0,60
+TRX00101,15/11/2023,13/12/2023,"Pineda, Reid and Jackson",Consulting,Operations,Cut Service/Product,8,£785.99,"£6,287.92",,0,0,90
+TRX00102,10/10/2024,21/10/2024,"Larson, Campbell and Robinson",IT Services,IT,Total Service/Product,4,£625.58,"£2,502.32",CON3953,0,0,60
+TRX00103,07/08/2024,19/08/2024,"Hopkins, Cox and Curry",Facilities Maintenance,Operations,Positive Service/Product,10,£127.25,"£1,272.50",CON5112,0,0,30
+TRX00104,26/05/2024,01/06/2024,Conway PLC,IT Services,Operations,Box Service/Product,2,£325.37,£650.74,CON7173,0,0,60
+TRX00105,19/06/2024,18/07/2024,Harrington-Hooper,IT Services,Operations,Success Service/Product,7,£565.39,"£3,957.73",CON4609,0,0,90
+TRX00106,25/04/2025,09/05/2025,Torres-Hudson,Consulting,Operations,Hundred Service/Product,5,£287.92,"£1,439.60",CON8552,0,0,90
+TRX00107,01/05/2024,11/05/2024,Singh PLC,Facilities Maintenance,HR,Fund Service/Product,10,£830.02,"£8,300.20",CON8928,0,0,30
+TRX00108,04/10/2024,25/10/2024,"Flowers, Dickerson and Lyons",IT Services,IT,Floor Service/Product,9,£78.99,£710.91,CON1411,0,0,90
+TRX00109,01/06/2024,12/06/2024,"Lara, Schmidt and Morgan",Consulting,Operations,Dream Service/Product,3,£868.06,"£2,604.18",CON9550,0,0,30
+TRX00110,04/01/2025,25/01/2025,"Olsen, Green and Pennington",IT Services,IT,Whole Service/Product,1,£673.98,£673.98,CON1203,0,0,90
+TRX00111,29/03/2025,23/04/2025,Gonzalez-Johnson,Consulting,Patient Care,Watch Service/Product,8,£323.70,"£2,589.60",,0,0,30
+TRX00112,19/08/2023,25/08/2023,"Carson, Williams and Burgess",Medical Supplies,Patient Care,Each Service/Product,2,£181.53,£363.06,,0,0,30
+TRX00113,31/12/2024,17/01/2025,Kim-Matthews,Office Equipment,Finance,Modern Service/Product,5,£109.77,£548.85,CON2721,73.05,60.79,30
+TRX00114,05/05/2024,25/05/2024,Roy and Sons,Facilities Maintenance,Patient Care,Picture Service/Product,3,£753.24,"£2,259.72",CON2159,0,0,90
+TRX00115,14/02/2024,17/02/2024,Davis-Brown,Consulting,Patient Care,Face Service/Product,7,£499.12,"£3,493.84",CON9990,0,0,90
+TRX00116,03/04/2025,30/04/2025,Jimenez-Robinson,Medical Supplies,Operations,Something Service/Product,3,£881.97,"£2,645.91",,0,0,90
+TRX00117,16/04/2024,08/05/2024,Moore-Parks,Logistics,IT,Eight Service/Product,4,£192.30,£769.20,CON5480,39.01,22.36,60
+TRX00118,29/10/2024,02/11/2024,"Holland, Rodriguez and Wallace",Logistics,Operations,Detail Service/Product,6,£608.60,"£3,651.60",CON6869,242.83,150.19,90
+TRX00119,21/02/2025,10/03/2025,Lynn-Tucker,Consulting,Patient Care,Discussion Service/Product,1,£916.71,£916.71,,0,0,30
+TRX00120,10/10/2023,31/10/2023,"Adkins, Leach and Perez",Consulting,Operations,Use Service/Product,5,£109.17,£545.85,CON7485,0,0,90
+TRX00121,23/09/2023,11/10/2023,"Clements, Randall and Ramirez",Consulting,Admin,Later Service/Product,3,£988.77,"£2,966.31",CON9333,399.15,233.65,30
+TRX00122,13/07/2024,29/07/2024,Summers PLC,Consulting,IT,Fear Service/Product,1,£222.19,£222.19,CON3283,0,0,60
+TRX00123,15/10/2023,03/11/2023,Powers Inc,Consulting,Finance,Happy Service/Product,6,£722.45,"£4,334.70",,491.37,304.05,60
+TRX00124,02/01/2025,22/01/2025,"Rodriguez, Cooper and Bush",Facilities Maintenance,Operations,Writer Service/Product,4,£113.89,£455.56,CON9267,0,0,60
+TRX00125,15/05/2025,25/05/2025,Mayer-Buchanan,Logistics,Finance,Onto Service/Product,7,£839.70,"£5,877.90",,0,0,90
+TRX00126,30/12/2023,10/01/2024,Rich-Martinez,IT Services,Finance,Step Service/Product,1,£568.14,£568.14,CON5905,0,0,30
+TRX00127,09/10/2023,28/10/2023,"Raymond, Rodriguez and Gilbert",Medical Supplies,Patient Care,Wear Service/Product,5,£227.18,"£1,135.90",,0,0,30
+TRX00128,24/03/2025,28/03/2025,"Jensen, Brown and Lynch",IT Services,IT,Section Service/Product,1,£303.48,£303.48,CON8274,56.97,56.54,30
+TRX00129,10/10/2024,04/11/2024,Benson-Torres,Consulting,Operations,Church Service/Product,10,£578.89,"£5,788.90",CON1301,0,0,90
+TRX00130,02/11/2023,29/11/2023,Newman-Chavez,Office Equipment,Admin,Service Service/Product,8,£94.38,£755.04,CON2890,0,0,30
+TRX00131,05/06/2025,02/07/2025,"Mcpherson, Mullen and Flowers",IT Services,IT,Player Service/Product,2,£613.40,"£1,226.80",CON8805,77.1,67.75,30
+TRX00132,08/01/2025,28/01/2025,Hernandez and Sons,Facilities Maintenance,Operations,Room Service/Product,10,£67.44,£674.40,CON4288,0,0,30
+TRX00133,09/04/2024,17/04/2024,Kline-Mcgrath,IT Services,IT,Put Service/Product,3,£838.93,"£2,516.79",,0,0,90
+TRX00134,04/08/2023,09/08/2023,Martin-Allen,Office Equipment,Operations,Ten Service/Product,4,£379.63,"£1,518.52",CON9791,0,0,30
+TRX00135,21/01/2024,10/02/2024,Chase-Gregory,IT Services,HR,Medical Service/Product,9,£547.12,"£4,924.08",,0,0,30
+TRX00136,10/02/2025,15/02/2025,Riley Ltd,Logistics,Admin,Energy Service/Product,2,£808.37,"£1,616.74",CON6862,226.9,60.27,30
+TRX00137,14/02/2024,07/03/2024,Ford Inc,IT Services,IT,Most Service/Product,1,£998.42,£998.42,CON2267,0,0,30
+TRX00138,30/10/2024,14/11/2024,Richardson-Mckenzie,Consulting,Patient Care,Popular Service/Product,6,£690.37,"£4,142.22",CON4877,0,0,90
+TRX00139,19/03/2025,12/04/2025,Williams-Bradford,Logistics,IT,Medical Service/Product,7,£707.99,"£4,955.93",,0,0,30
+TRX00140,25/09/2023,22/10/2023,"Hicks, Dalton and Boone",Office Equipment,Admin,Herself Service/Product,9,£50.99,£458.91,CON6506,0,0,90
+TRX00141,06/05/2024,05/06/2024,Nichols LLC,Medical Supplies,IT,Already Service/Product,5,£996.82,"£4,984.10",,544.68,272.56,60
+TRX00142,20/12/2024,05/01/2025,"Adams, Hayes and Rojas",Facilities Maintenance,HR,Truth Service/Product,3,£573.67,"£1,721.01",CON6813,0,0,30
+TRX00143,02/04/2024,06/04/2024,"Thomas, Olson and Wright",Logistics,IT,Later Service/Product,3,£469.79,"£1,409.37",CON5052,203.8,178.6,30
+TRX00144,09/12/2023,16/12/2023,Castillo-Hurst,Logistics,Operations,Serve Service/Product,6,£90.04,£540.24,CON2317,0,0,60
+TRX00145,31/01/2025,22/02/2025,Miller-Rodriguez,Consulting,Finance,Reality Service/Product,9,£319.57,"£2,876.13",CON5247,0,0,90
+TRX00146,24/11/2024,24/12/2024,Moore-Moyer,Medical Supplies,IT,Impact Service/Product,5,£214.26,"£1,071.30",CON2557,0,0,60
+TRX00147,21/03/2024,29/03/2024,"Mitchell, Davis and Lopez",Medical Supplies,HR,Establish Service/Product,7,£507.63,"£3,553.41",CON6037,0,0,30
+TRX00148,28/10/2023,11/11/2023,Mahoney Inc,IT Services,Patient Care,Exactly Service/Product,4,£817.97,"£3,271.88",CON7282,0,0,60
+TRX00149,18/04/2024,03/05/2024,Perez Inc,Logistics,IT,Meeting Service/Product,1,£477.73,£477.73,,0,0,30
+TRX00150,11/08/2023,19/08/2023,Calderon-Watts,Consulting,Admin,Task Service/Product,10,£430.06,"£4,300.60",,0,0,30
+TRX00151,17/05/2025,04/06/2025,"Hinton, Barker and Ellison",Office Equipment,HR,Best Service/Product,6,£146.61,£879.66,CON3477,0,0,30
+TRX00152,12/07/2025,24/07/2025,Ellis Group,Facilities Maintenance,Patient Care,Teach Service/Product,2,£755.41,"£1,510.82",CON3423,258.22,77.94,90
+TRX00153,21/11/2024,12/12/2024,Brown Ltd,Medical Supplies,IT,Level Service/Product,1,£193.08,£193.08,CON3274,0,0,90
+TRX00154,24/03/2025,28/03/2025,Petersen-Brown,Consulting,Operations,Green Service/Product,10,£92.01,£920.10,CON3641,0,0,30
+TRX00155,09/02/2024,21/02/2024,George PLC,Facilities Maintenance,Admin,Wide Service/Product,7,£648.28,"£4,537.96",,0,0,90
+TRX00156,19/04/2025,14/05/2025,"Williams, Martinez and Guzman",Medical Supplies,Admin,Space Service/Product,1,£822.34,£822.34,,0,0,60
+TRX00157,28/05/2025,04/06/2025,"May, Williams and Ross",Office Equipment,Patient Care,Manager Service/Product,4,£168.05,£672.20,CON7932,78.84,28.28,60
+TRX00158,20/08/2024,27/08/2024,"Snyder, Rice and Lee",Logistics,Operations,During Service/Product,6,£970.57,"£5,823.42",CON6418,0,0,60
+TRX00159,08/05/2025,16/05/2025,"Carter, Williams and Fowler",Consulting,IT,Pm Service/Product,3,£710.94,"£2,132.82",,398.98,59.4,30
+TRX00160,01/10/2024,22/10/2024,"Robinson, Caldwell and Love",Facilities Maintenance,Patient Care,Day Service/Product,2,£809.38,"£1,618.76",CON9939,0,0,60
+TRX00161,04/11/2023,14/11/2023,Carter Inc,Consulting,Operations,Daughter Service/Product,1,£864.44,£864.44,CON3564,130.77,63.7,30
+TRX00162,13/05/2024,23/05/2024,Johnson-Manning,Facilities Maintenance,Patient Care,Class Service/Product,10,£657.69,"£6,576.90",,0,0,60
+TRX00163,26/06/2024,17/07/2024,Cohen and Sons,Consulting,IT,Beat Service/Product,8,£328.39,"£2,627.12",CON8649,0,0,30
+TRX00164,24/08/2024,10/09/2024,Morales-Harrison,Logistics,Operations,Science Service/Product,9,£98.50,£886.50,CON5948,0,0,30
+TRX00165,14/11/2023,19/11/2023,"Wilkinson, Rivera and Benjamin",Facilities Maintenance,HR,Include Service/Product,7,£475.50,"£3,328.50",CON4570,0,0,30
+TRX00166,12/02/2025,21/02/2025,Mcbride-Rodriguez,Logistics,IT,Color Service/Product,7,£535.13,"£3,745.91",,0,0,30
+TRX00167,16/04/2024,27/04/2024,"Perez, Edwards and Miller",Consulting,IT,Away Service/Product,2,£378.05,£756.10,CON8336,136.85,100.52,30
+TRX00168,04/07/2025,22/07/2025,Burton Ltd,IT Services,Patient Care,Blue Service/Product,9,£892.15,"£8,029.35",CON5168,0,0,30
+TRX00169,21/04/2024,08/05/2024,"Taylor, Clark and Caldwell",Consulting,Admin,Message Service/Product,8,£118.72,£949.76,,0,0,30
+TRX00170,11/09/2023,16/09/2023,Vance-Cox,IT Services,Operations,All Service/Product,4,£725.36,"£2,901.44",CON3982,0,0,60
+TRX00171,02/01/2025,18/01/2025,Gonzalez LLC,Facilities Maintenance,Finance,Office Service/Product,1,£844.08,£844.08,CON3019,0,0,60
+TRX00172,08/08/2024,13/08/2024,Hernandez Inc,Consulting,IT,Marriage Service/Product,2,£395.12,£790.24,CON8918,0,0,60
+TRX00173,06/11/2024,18/11/2024,"Smith, Ray and Castillo",Medical Supplies,Finance,Successful Service/Product,9,£534.70,"£4,812.30",CON1460,0,0,30
+TRX00174,04/08/2024,31/08/2024,"Schultz, Rich and Guerrero",IT Services,HR,Newspaper Service/Product,6,£962.12,"£5,772.72",CON1561,0,0,90
+TRX00175,28/12/2023,22/01/2024,Johnson Ltd,IT Services,HR,Forward Service/Product,9,£360.81,"£3,247.29",,0,0,60
+TRX00176,02/03/2025,13/03/2025,Hall-Williams,IT Services,IT,Along Service/Product,1,£919.26,£919.26,,0,0,90
+TRX00177,22/06/2025,29/06/2025,"Adkins, Garza and Andrews",Office Equipment,Patient Care,Six Service/Product,5,£683.93,"£3,419.65",CON6129,0,0,90
+TRX00178,25/05/2024,06/06/2024,Yang-Ramsey,Office Equipment,HR,Win Service/Product,3,£830.88,"£2,492.64",,455,226.51,60
+TRX00179,31/08/2024,19/09/2024,Harrison PLC,IT Services,Patient Care,Control Service/Product,8,£745.54,"£5,964.32",CON1466,0,0,90
+TRX00180,29/06/2025,05/07/2025,Knox-Klein,Office Equipment,Finance,Administration Service/Product,3,£934.26,"£2,802.78",CON9496,0,0,60
+TRX00181,30/12/2024,15/01/2025,Nelson Ltd,Office Equipment,HR,Modern Service/Product,4,£330.23,"£1,320.92",,0,0,60
+TRX00182,28/01/2024,19/02/2024,Austin LLC,Medical Supplies,Operations,Above Service/Product,2,£241.04,£482.08,CON9821,0,0,90
+TRX00183,29/09/2023,12/10/2023,Villarreal Group,Logistics,Admin,Down Service/Product,4,£570.89,"£2,283.56",CON2916,0,0,30
+TRX00184,02/11/2024,08/11/2024,Smith Group,Office Equipment,Operations,College Service/Product,3,£953.98,"£2,861.94",CON8350,0,0,90
+TRX00185,21/02/2025,07/03/2025,"Farmer, Pearson and Jones",Consulting,HR,Number Service/Product,7,£767.49,"£5,372.43",,798.18,242.99,30
+TRX00186,01/10/2024,05/10/2024,"Goodman, Patrick and Marshall",Consulting,Patient Care,Bill Service/Product,5,£476.29,"£2,381.45",CON3654,0,0,30
+TRX00187,06/12/2024,29/12/2024,Morris-Watkins,IT Services,HR,Too Service/Product,5,£181.14,£905.70,CON7413,0,0,30
+TRX00188,09/08/2024,24/08/2024,Pollard LLC,Medical Supplies,IT,Voice Service/Product,2,£198.72,£397.44,,0,0,90
+TRX00189,21/04/2025,17/05/2025,"Jones, Todd and Parrish",Logistics,Patient Care,Believe Service/Product,10,£921.38,"£9,213.80",,1327.07,175.96,90
+TRX00190,19/06/2024,11/07/2024,Gray PLC,Office Equipment,Finance,Republican Service/Product,3,£541.93,"£1,625.79",,120.51,20.77,90
+TRX00191,19/06/2024,23/06/2024,Alvarez-Shaw,Medical Supplies,Finance,Year Service/Product,9,£512.40,"£4,611.60",,0,0,30
+TRX00192,07/10/2024,24/10/2024,Evans Ltd,Medical Supplies,HR,Fall Service/Product,4,£188.35,£753.40,,0,0,30
+TRX00193,08/12/2023,11/12/2023,Chambers-Torres,Office Equipment,IT,Behind Service/Product,9,£170.19,"£1,531.71",,0,0,90
+TRX00194,31/05/2025,17/06/2025,"Lopez, Taylor and Gibson",Office Equipment,IT,Catch Service/Product,9,£543.41,"£4,890.69",CON3290,0,0,30
+TRX00195,02/07/2025,29/07/2025,"Davis, Smith and Pratt",IT Services,Finance,Stop Service/Product,5,£831.12,"£4,155.60",CON1600,0,0,30
+TRX00196,14/07/2024,28/07/2024,Murphy Inc,Office Equipment,Patient Care,Wife Service/Product,8,£571.14,"£4,569.12",,739.19,635.44,60
+TRX00197,10/12/2024,25/12/2024,"Gilbert, Walker and Campbell",Office Equipment,Finance,Place Service/Product,1,£621.88,£621.88,CON4914,60.02,31.27,90
+TRX00198,24/01/2024,17/02/2024,Brown Group,Facilities Maintenance,Finance,International Service/Product,5,£176.52,£882.60,CON6062,0,0,60
+TRX00199,22/06/2024,29/06/2024,Oconnell-Romero,IT Services,Finance,Subject Service/Product,3,£155.46,£466.38,,0,0,90
+TRX00200,20/06/2025,23/06/2025,"Fox, James and Wilson",Facilities Maintenance,HR,Last Service/Product,1,£250.77,£250.77,CON3997,0,0,60
+TRX00201,25/10/2023,17/11/2023,Pugh-Lewis,Medical Supplies,Finance,Instead Service/Product,6,£847.74,"£5,086.44",CON3065,704.27,391.44,60
+TRX00202,03/01/2024,30/01/2024,Smith and Sons,Medical Supplies,Admin,Artist Service/Product,10,£46.59,£465.90,CON2913,0,0,30
+TRX00203,10/01/2024,18/01/2024,Moreno-Smith,Logistics,Operations,Bar Service/Product,7,£557.91,"£3,905.37",CON7184,0,0,60
+TRX00204,11/06/2024,05/07/2024,"Baker, Scott and Kent",Facilities Maintenance,Finance,Strategy Service/Product,10,£370.87,"£3,708.70",CON1393,675.63,404.06,60
+TRX00205,03/06/2025,16/06/2025,"Medina, Thompson and Mcclure",Consulting,Patient Care,Remember Service/Product,2,£568.48,"£1,136.96",,140.96,9.45,60
+TRX00206,20/06/2024,15/07/2024,"Dunn, Fitzgerald and Cobb",Office Equipment,Finance,Know Service/Product,7,£386.39,"£2,704.73",,0,0,60
+TRX00207,04/07/2024,14/07/2024,Miles-Barker,IT Services,Patient Care,Wall Service/Product,3,£922.35,"£2,767.05",,0,0,60
+TRX00208,01/02/2024,12/02/2024,Massey-Hernandez,Logistics,Patient Care,Leader Service/Product,10,£993.66,"£9,936.60",CON5621,0,0,30
+TRX00209,24/04/2024,19/05/2024,Thomas-Brown,Medical Supplies,Finance,Seem Service/Product,4,£445.08,"£1,780.32",CON4873,118.94,107.63,60
+TRX00210,26/04/2024,14/05/2024,"Johnson, Rowe and Heath",IT Services,Finance,Shoulder Service/Product,6,£212.42,"£1,274.52",CON5316,170.67,116.03,90
+TRX00211,07/02/2024,23/02/2024,Bowers-Dunn,IT Services,Finance,Half Service/Product,5,£636.89,"£3,184.45",,0,0,60
+TRX00212,21/07/2024,30/07/2024,"Bradley, Oneal and Gregory",Facilities Maintenance,Finance,Senior Service/Product,10,£266.60,"£2,666.00",,409.69,101.52,60
+TRX00213,11/07/2024,14/07/2024,Berry-Webster,Facilities Maintenance,Finance,Learn Service/Product,5,£593.75,"£2,968.75",CON6402,0,0,30
+TRX00214,31/08/2024,27/09/2024,Atkins-Jenkins,Office Equipment,Operations,Message Service/Product,10,£945.42,"£9,454.20",CON4092,0,0,90
+TRX00215,30/01/2025,04/02/2025,Wiley and Sons,Facilities Maintenance,HR,Environmental Service/Product,8,£20.63,£165.04,CON2804,0,0,90
+TRX00216,15/08/2023,12/09/2023,"Flores, King and Kidd",Logistics,Admin,Early Service/Product,2,£502.54,"£1,005.08",CON6331,134.12,53.51,90
+TRX00217,25/03/2024,05/04/2024,Gutierrez-Richards,Facilities Maintenance,Operations,Remember Service/Product,8,£980.42,"£7,843.36",,0,0,90
+TRX00218,16/06/2025,29/06/2025,Smith-Thomas,Consulting,Patient Care,Soldier Service/Product,9,£515.48,"£4,639.32",CON8289,0,0,30
+TRX00219,22/02/2024,16/03/2024,"Kelly, Lucas and Beard",Facilities Maintenance,Finance,Couple Service/Product,10,£455.82,"£4,558.20",CON5231,0,0,60
+TRX00220,14/09/2023,29/09/2023,Cook Ltd,Logistics,HR,By Service/Product,9,£244.75,"£2,202.75",CON9315,0,0,60
+TRX00221,19/09/2024,14/10/2024,Pearson-Wagner,Facilities Maintenance,IT,Can Service/Product,1,£775.52,£775.52,CON1029,0,0,30
+TRX00222,11/02/2025,13/03/2025,Mayer-Rosales,IT Services,IT,Gas Service/Product,9,£681.60,"£6,134.40",,859.8,237.73,60
+TRX00223,08/01/2024,18/01/2024,Jackson-Peterson,Consulting,Admin,Effect Service/Product,5,£979.81,"£4,899.05",CON8874,0,0,60
+TRX00224,09/12/2023,24/12/2023,Soto and Sons,Facilities Maintenance,Finance,Evidence Service/Product,4,£965.27,"£3,861.08",CON2765,0,0,90
+TRX00225,15/12/2023,27/12/2023,"Dickson, Valdez and Young",Logistics,Patient Care,Mean Service/Product,2,£927.18,"£1,854.36",CON3186,246.95,160.29,30
+TRX00226,02/08/2023,24/08/2023,Oconnor-Fisher,Office Equipment,HR,Pull Service/Product,1,£928.02,£928.02,CON1226,0,0,90
+TRX00227,19/03/2024,24/03/2024,Perry Group,Logistics,IT,Coach Service/Product,1,£367.71,£367.71,CON6429,49.27,45.92,90
+TRX00228,24/02/2024,13/03/2024,Odonnell LLC,Logistics,IT,Step Service/Product,5,£317.44,"£1,587.20",CON7769,162.1,121.6,90
+TRX00229,15/12/2024,29/12/2024,Shaw Inc,Office Equipment,IT,Kid Service/Product,8,£914.12,"£7,312.96",CON1933,0,0,90
+TRX00230,04/10/2023,11/10/2023,"Sawyer, Mckee and Bentley",Consulting,HR,Fish Service/Product,9,£654.43,"£5,889.87",CON9053,0,0,60
+TRX00231,19/08/2023,30/08/2023,"Fuller, Robinson and Carter",Medical Supplies,Admin,Word Service/Product,1,£94.82,£94.82,,0,0,60
+TRX00232,26/11/2024,21/12/2024,Pacheco LLC,Office Equipment,HR,Paper Service/Product,4,£497.59,"£1,990.36",,154.84,138.99,30
+TRX00233,14/03/2024,31/03/2024,Page-Soto,Logistics,Patient Care,Admit Service/Product,1,£804.70,£804.70,CON9348,0,0,90
+TRX00234,12/10/2023,04/11/2023,Shepard-Flowers,IT Services,Patient Care,My Service/Product,7,£576.99,"£4,038.93",,0,0,90
+TRX00235,12/12/2023,24/12/2023,White-Rodriguez,Office Equipment,Admin,It Service/Product,4,£561.24,"£2,244.96",CON1626,0,0,90
+TRX00236,09/03/2024,06/04/2024,"Bartlett, Coleman and Burns",Medical Supplies,Operations,Traditional Service/Product,3,£508.64,"£1,525.92",CON2994,0,0,60
+TRX00237,03/09/2024,23/09/2024,Hale-Smith,Consulting,Finance,Ground Service/Product,10,£889.94,"£8,899.40",,0,0,30
+TRX00238,10/04/2025,10/05/2025,Schaefer Inc,Medical Supplies,Operations,Share Service/Product,5,£449.98,"£2,249.90",,0,0,90
+TRX00239,30/09/2024,24/10/2024,Chase-Hanson,Facilities Maintenance,HR,Call Service/Product,8,£600.24,"£4,801.92",CON5966,0,0,60
+TRX00240,07/04/2024,15/04/2024,Rose LLC,Facilities Maintenance,Patient Care,Southern Service/Product,2,£801.76,"£1,603.52",CON9481,220.27,13.96,30
+TRX00241,18/08/2023,06/09/2023,Robinson-Cohen,IT Services,HR,Anything Service/Product,3,£504.46,"£1,513.38",CON1372,0,0,30
+TRX00242,15/06/2025,13/07/2025,"Pena, Drake and Turner",Facilities Maintenance,IT,Animal Service/Product,5,£154.60,£773.00,CON1990,52.74,22.78,90
+TRX00243,25/08/2023,28/08/2023,"Moore, Garcia and Allen",Facilities Maintenance,Admin,Manage Service/Product,3,£447.10,"£1,341.30",CON4220,0,0,90
+TRX00244,11/07/2025,23/07/2025,Fischer-Hernandez,Logistics,Operations,Budget Service/Product,2,£608.67,"£1,217.34",CON2529,0,0,60
+TRX00245,01/03/2025,15/03/2025,"Petty, Mcgrath and Jones",Facilities Maintenance,Operations,End Service/Product,6,£603.52,"£3,621.12",,0,0,60
+TRX00246,21/03/2024,14/04/2024,Reilly LLC,IT Services,Patient Care,Catch Service/Product,5,£79.27,£396.35,CON9805,0,0,30
+TRX00247,12/10/2024,05/11/2024,Herring and Sons,Office Equipment,Operations,Name Service/Product,2,£975.08,"£1,950.16",CON8085,211.97,21.53,60
+TRX00248,08/08/2023,29/08/2023,Harmon Ltd,IT Services,IT,Reveal Service/Product,5,£355.36,"£1,776.80",CON6231,195.08,97.02,90
+TRX00249,16/06/2025,15/07/2025,"Johnson, Moran and Mays",Office Equipment,Patient Care,Eye Service/Product,6,£443.74,"£2,662.44",CON8065,0,0,30
+TRX00250,14/04/2024,08/05/2024,Morris PLC,Facilities Maintenance,IT,Apply Service/Product,7,£17.73,£124.11,,0,0,60
+TRX00251,26/07/2023,20/08/2023,Jones and Sons,IT Services,Patient Care,One Service/Product,9,£310.33,"£2,792.97",,290.83,4.62,60
+TRX00252,17/01/2024,06/02/2024,"Eaton, Duncan and Turner",Logistics,Finance,Community Service/Product,5,£816.53,"£4,082.65",CON2061,0,0,90
+TRX00253,30/03/2024,06/04/2024,Shaffer-Barnes,Medical Supplies,Patient Care,Happy Service/Product,2,£733.80,"£1,467.60",CON9264,0,0,30
+TRX00254,31/08/2023,24/09/2023,Hampton-Jones,Consulting,Patient Care,Idea Service/Product,3,£422.72,"£1,268.16",CON7646,0,0,30
+TRX00255,28/08/2023,26/09/2023,Simon Inc,Consulting,Admin,Difference Service/Product,4,£514.11,"£2,056.44",CON8706,240.54,150.24,30
+TRX00256,21/06/2024,28/06/2024,Watkins-Castro,Facilities Maintenance,Finance,Factor Service/Product,4,£668.13,"£2,672.52",,0,0,30
+TRX00257,27/12/2023,12/01/2024,Fletcher Group,Office Equipment,HR,Alone Service/Product,1,£460.59,£460.59,,58.97,7.69,60
+TRX00258,28/07/2023,15/08/2023,Hernandez Group,Logistics,IT,Notice Service/Product,5,£180.63,£903.15,,66.81,14.71,30
+TRX00259,29/08/2023,05/09/2023,Johnson Inc,Consulting,IT,Beyond Service/Product,8,£454.96,"£3,639.68",CON7311,0,0,60
+TRX00260,06/12/2024,02/01/2025,Buchanan-Nunez,Facilities Maintenance,Operations,Tax Service/Product,9,£706.91,"£6,362.19",,0,0,60
+TRX00261,26/09/2024,15/10/2024,"Wolf, Kelly and Dunn",Office Equipment,Finance,Have Service/Product,4,£625.93,"£2,503.72",,145.47,48.28,90
+TRX00262,28/09/2023,08/10/2023,Oliver LLC,Logistics,Patient Care,Expect Service/Product,10,£963.25,"£9,632.50",CON2543,0,0,60
+TRX00263,04/03/2024,11/03/2024,"Coleman, Williams and Hill",Medical Supplies,Admin,Author Service/Product,8,£315.51,"£2,524.08",,0,0,90
+TRX00264,05/06/2024,26/06/2024,"Webster, Beck and Wood",IT Services,Patient Care,Enter Service/Product,8,£427.20,"£3,417.60",CON3132,0,0,90
+TRX00265,11/10/2023,21/10/2023,Hansen Group,IT Services,Finance,Voice Service/Product,5,£807.53,"£4,037.65",CON9866,352.37,76.16,90
+TRX00266,16/10/2024,28/10/2024,Goodman Ltd,Facilities Maintenance,IT,Voice Service/Product,5,£665.03,"£3,325.15",CON1504,0,0,60
+TRX00267,16/01/2024,30/01/2024,Roberts LLC,Logistics,IT,Man Service/Product,8,£913.09,"£7,304.72",CON3076,0,0,30
+TRX00268,28/10/2024,09/11/2024,"Scott, Christian and Roberts",Consulting,Operations,Party Service/Product,8,£614.30,"£4,914.40",CON9617,0,0,30
+TRX00269,20/12/2023,06/01/2024,Reeves-Sanchez,Facilities Maintenance,Operations,International Service/Product,1,£708.17,£708.17,CON9633,49.3,19.86,60
+TRX00270,21/05/2024,24/05/2024,Gibson-Hopkins,Logistics,IT,Move Service/Product,5,£362.01,"£1,810.05",CON1019,0,0,60
+TRX00271,05/10/2023,18/10/2023,Mooney-Burton,Logistics,Finance,In Service/Product,5,£600.03,"£3,000.15",CON9074,319.43,220.2,90
+TRX00272,07/12/2024,17/12/2024,Carlson-Johnson,IT Services,Finance,Out Service/Product,10,£119.73,"£1,197.30",CON3541,131.01,121.99,90
+TRX00273,11/02/2025,23/02/2025,Martin Group,Office Equipment,Patient Care,Employee Service/Product,9,£307.42,"£2,766.78",,0,0,60
+TRX00274,17/12/2024,25/12/2024,Johnson and Sons,Consulting,Operations,Over Service/Product,6,£714.30,"£4,285.80",CON5109,0,0,90
+TRX00275,08/12/2023,20/12/2023,Ramos LLC,Office Equipment,Operations,Hear Service/Product,2,£806.97,"£1,613.94",,305.12,211.36,30
+TRX00276,16/07/2025,06/08/2025,Olson-Rodgers,IT Services,Operations,Within Service/Product,1,£106.31,£106.31,CON8783,0,0,30
+TRX00277,14/09/2023,29/09/2023,Crawford Group,Facilities Maintenance,Finance,Body Service/Product,1,£431.03,£431.03,,0,0,30
+TRX00278,07/07/2024,23/07/2024,Roth-Cruz,Consulting,IT,Impact Service/Product,5,£617.46,"£3,087.30",CON6886,409.74,385.16,60
+TRX00279,02/07/2025,18/07/2025,Lopez-Peterson,Office Equipment,Patient Care,How Service/Product,3,£259.54,£778.62,CON9737,111.53,47.13,90
+TRX00280,27/11/2024,10/12/2024,Townsend PLC,IT Services,HR,North Service/Product,4,£616.94,"£2,467.76",CON7883,253.05,43.17,90
+TRX00281,08/08/2023,23/08/2023,Phelps-Peterson,IT Services,Operations,Series Service/Product,5,£111.16,£555.80,CON4201,0,0,30
+TRX00282,17/06/2025,12/07/2025,Wilson-Kelley,Logistics,Finance,Myself Service/Product,3,£115.58,£346.74,CON7927,66,60.85,90
+TRX00283,21/10/2023,26/10/2023,"Vargas, Russo and Bean",IT Services,Operations,Matter Service/Product,1,£842.93,£842.93,CON7212,0,0,60
+TRX00284,01/07/2024,26/07/2024,Robinson Ltd,IT Services,HR,Account Service/Product,10,£881.39,"£8,813.90",CON7367,0,0,30
+TRX00285,09/12/2024,02/01/2025,"Jones, Johnson and Davila",Logistics,Patient Care,Firm Service/Product,5,£682.99,"£3,414.95",CON2881,259.48,0.18,60
+TRX00286,18/12/2023,07/01/2024,Garcia-Hoover,Logistics,Patient Care,Box Service/Product,2,£381.55,£763.10,,0,0,60
+TRX00287,01/02/2024,15/02/2024,Francis Group,Consulting,Admin,Pattern Service/Product,3,£95.02,£285.06,,14.95,6.31,60
+TRX00288,18/09/2023,22/09/2023,Wright PLC,Office Equipment,IT,Pick Service/Product,4,£481.68,"£1,926.72",,247.3,231.14,30
+TRX00289,03/04/2025,11/04/2025,Christensen-Kennedy,Medical Supplies,HR,Air Service/Product,6,£883.61,"£5,301.66",,651.44,80.58,60
+TRX00290,23/04/2024,19/05/2024,"Conrad, Moore and Mayer",Facilities Maintenance,Admin,Focus Service/Product,10,£976.11,"£9,761.10",CON9524,0,0,90
+TRX00291,29/07/2024,18/08/2024,Cook Group,Consulting,Operations,Management Service/Product,7,£826.92,"£5,788.44",,0,0,60
+TRX00292,10/08/2023,05/09/2023,Hall Group,IT Services,IT,Half Service/Product,8,£153.99,"£1,231.92",CON8994,233.59,140.26,30
+TRX00293,26/12/2023,13/01/2024,"Scott, Mata and Pierce",Medical Supplies,Operations,Movement Service/Product,8,£133.44,"£1,067.52",,0,0,30
+TRX00294,17/07/2023,23/07/2023,Lynch and Sons,Office Equipment,IT,Against Service/Product,9,£659.18,"£5,932.62",,0,0,90
+TRX00295,19/04/2025,27/04/2025,"Lambert, Morrison and Burton",Facilities Maintenance,Finance,Manager Service/Product,10,£306.02,"£3,060.20",CON1746,302.3,92.25,60
+TRX00296,12/10/2023,26/10/2023,"Hernandez, Ferguson and Duffy",Consulting,Admin,Me Service/Product,3,£585.07,"£1,755.21",CON4485,151.41,106.23,60
+TRX00297,22/04/2025,19/05/2025,Stewart and Sons,IT Services,Operations,Pass Service/Product,3,£72.73,£218.19,CON6765,0,0,30
+TRX00298,28/03/2025,13/04/2025,"Blackburn, Wright and Davis",Consulting,Finance,Into Service/Product,6,£400.46,"£2,402.76",,0,0,30
+TRX00299,23/04/2025,12/05/2025,"Snyder, Strickland and Mayo",IT Services,Operations,Training Service/Product,7,£267.37,"£1,871.59",CON7174,0,0,30
+TRX00300,14/09/2024,08/10/2024,Evans-Middleton,IT Services,Finance,Article Service/Product,7,£899.56,"£6,296.92",CON6786,0,0,90
+TRX00301,17/02/2025,27/02/2025,"Barron, Frye and Klein",IT Services,Finance,Usually Service/Product,2,£75.66,£151.32,CON9764,0,0,90
+TRX00302,08/04/2024,06/05/2024,Garner and Sons,Facilities Maintenance,IT,Represent Service/Product,6,£471.42,"£2,828.52",CON4441,0,0,90
+TRX00303,11/12/2023,16/12/2023,"Smith, Green and Acosta",Medical Supplies,HR,Service Service/Product,2,£253.76,£507.52,CON9982,0,0,30
+TRX00304,23/06/2024,30/06/2024,"Ford, Lambert and Simmons",Office Equipment,Finance,Town Service/Product,2,£780.42,"£1,560.84",CON9190,0,0,60
+TRX00305,25/12/2024,08/01/2025,Norris-Willis,Consulting,HR,Stage Service/Product,10,£549.69,"£5,496.90",CON8430,0,0,90
+TRX00306,01/06/2025,16/06/2025,Davis Inc,Medical Supplies,Operations,For Service/Product,9,£744.70,"£6,702.30",CON9174,0,0,60
+TRX00307,08/12/2024,19/12/2024,Juarez-King,Consulting,Operations,Citizen Service/Product,3,£795.16,"£2,385.48",CON9358,0,0,90
+TRX00308,29/04/2025,14/05/2025,Dominguez-Hensley,Logistics,Patient Care,Organization Service/Product,3,£628.85,"£1,886.55",CON6630,0,0,90
+TRX00309,25/10/2024,20/11/2024,"Blake, Travis and Smith",IT Services,Patient Care,Care Service/Product,2,£193.62,£387.24,,0,0,60
+TRX00310,10/01/2025,20/01/2025,Flowers Inc,Facilities Maintenance,Finance,Teacher Service/Product,6,£346.42,"£2,078.52",CON2338,0,0,30
+TRX00311,25/02/2024,16/03/2024,Franco-Frazier,Office Equipment,IT,Citizen Service/Product,1,£818.55,£818.55,CON6992,137.08,57.36,60
+TRX00312,16/07/2025,20/07/2025,"Wells, Roberts and Coleman",Medical Supplies,HR,Throughout Service/Product,5,£955.85,"£4,779.25",CON2334,0,0,30
+TRX00313,20/03/2024,30/03/2024,"Williamson, Grimes and Finley",Facilities Maintenance,IT,These Service/Product,9,£895.44,"£8,058.96",CON1593,0,0,30
+TRX00314,15/03/2025,12/04/2025,"Johnson, Gentry and Alvarez",Logistics,Patient Care,Sister Service/Product,7,£817.63,"£5,723.41",,0,0,30
+TRX00315,25/10/2024,19/11/2024,Cross-Taylor,Logistics,Operations,View Service/Product,2,£895.82,"£1,791.64",,0,0,90
+TRX00316,05/12/2024,04/01/2025,"Knapp, Porter and Jones",IT Services,Finance,Bit Service/Product,7,£507.25,"£3,550.75",CON7333,321.59,65.72,90
+TRX00317,13/09/2024,21/09/2024,"Cisneros, Daniel and Bradley",Office Equipment,Admin,Standard Service/Product,5,£843.12,"£4,215.60",,614.97,567.06,60
+TRX00318,10/12/2023,24/12/2023,Hester Group,Logistics,Patient Care,Establish Service/Product,8,£962.32,"£7,698.56",CON8619,0,0,90
+TRX00319,03/07/2025,15/07/2025,"Daniels, Bailey and Silva",Medical Supplies,Finance,Star Service/Product,2,£55.24,£110.48,CON8890,0,0,30
+TRX00320,16/05/2024,25/05/2024,Ayala LLC,Consulting,Admin,Market Service/Product,10,£294.76,"£2,947.60",,354.2,65.77,60
+TRX00321,01/02/2025,01/03/2025,Atkinson PLC,IT Services,Patient Care,Record Service/Product,9,£995.43,"£8,958.87",CON4454,0,0,30
+TRX00322,19/02/2024,11/03/2024,"Wells, English and Brooks",IT Services,Admin,Huge Service/Product,9,£670.03,"£6,030.27",CON8680,0,0,30
+TRX00323,03/03/2024,11/03/2024,Lee LLC,Office Equipment,HR,Simple Service/Product,3,£699.37,"£2,098.11",,338.23,9.48,60
+TRX00324,03/07/2024,01/08/2024,"Freeman, Jones and Allen",Logistics,Admin,Main Service/Product,2,£298.22,£596.44,CON1035,0,0,60
+TRX00325,07/04/2025,19/04/2025,"Levine, Castro and Werner",IT Services,HR,Course Service/Product,8,£130.19,"£1,041.52",CON3733,0,0,90
+TRX00326,20/06/2024,06/07/2024,"Donovan, Jones and Woods",Medical Supplies,Admin,Either Service/Product,10,£126.94,"£1,269.40",,0,0,60
+TRX00327,25/05/2025,04/06/2025,Hull-Davis,Facilities Maintenance,IT,Management Service/Product,9,£652.68,"£5,874.12",CON6808,945.5,209.87,30
+TRX00328,23/03/2024,16/04/2024,"Reid, Calderon and Mayer",Logistics,Finance,Others Service/Product,4,£648.71,"£2,594.84",CON4963,0,0,90
+TRX00329,19/03/2025,18/04/2025,Fuentes-Rodriguez,Facilities Maintenance,HR,Relate Service/Product,8,£948.61,"£7,588.88",CON9179,0,0,30
+TRX00330,12/04/2025,27/04/2025,Cobb Ltd,IT Services,IT,Throw Service/Product,5,£859.76,"£4,298.80",CON2951,0,0,90
+TRX00331,23/08/2024,09/09/2024,"Mccormick, Jimenez and Rivera",Office Equipment,Operations,Lay Service/Product,8,£804.54,"£6,436.32",CON6764,0,0,60
+TRX00332,04/09/2023,18/09/2023,"Butler, Blake and Lewis",Consulting,IT,Fact Service/Product,7,£750.19,"£5,251.33",CON6653,0,0,60
+TRX00333,02/02/2024,14/02/2024,Robles-Valdez,Facilities Maintenance,Operations,Note Service/Product,9,£591.36,"£5,322.24",,0,0,30
+TRX00334,22/07/2023,03/08/2023,Alvarado-May,Logistics,HR,Church Service/Product,8,£182.54,"£1,460.32",CON8280,0,0,90
+TRX00335,16/10/2024,04/11/2024,Rivas-Callahan,Logistics,Operations,Pay Service/Product,8,£239.30,"£1,914.40",CON2420,0,0,30
+TRX00336,20/03/2024,01/04/2024,"Haynes, Barrett and Brady",Consulting,Patient Care,Continue Service/Product,9,£688.45,"£6,196.05",CON2341,541.46,457.38,90
+TRX00337,05/10/2024,04/11/2024,Jordan Inc,Medical Supplies,HR,Bad Service/Product,2,£265.53,£531.06,CON5430,0,0,90
+TRX00338,25/01/2024,16/02/2024,"Shepard, Campos and Warren",Logistics,HR,Who Service/Product,2,£947.35,"£1,894.70",,0,0,90
+TRX00339,03/01/2024,29/01/2024,"Burke, Stanley and Duncan",IT Services,Finance,Artist Service/Product,4,£855.94,"£3,423.76",CON9185,0,0,30
+TRX00340,16/02/2024,09/03/2024,Browning Group,Medical Supplies,Admin,Environment Service/Product,1,£931.14,£931.14,,0,0,30
+TRX00341,09/10/2023,07/11/2023,Anderson-Thomas,Logistics,Admin,Quickly Service/Product,4,£174.10,£696.40,,0,0,90
+TRX00342,16/11/2024,12/12/2024,Johnson PLC,Medical Supplies,HR,Lose Service/Product,4,£441.49,"£1,765.96",CON6164,0,0,30
+TRX00343,02/08/2024,15/08/2024,Edwards LLC,Logistics,Operations,Southern Service/Product,9,£324.95,"£2,924.55",CON6321,0,0,60
+TRX00344,07/06/2025,26/06/2025,"Ramos, Carter and Woods",Medical Supplies,HR,Congress Service/Product,2,£709.32,"£1,418.64",CON7967,254.08,151.48,60
+TRX00345,18/02/2025,26/02/2025,"Hughes, Baker and Barrett",Logistics,Finance,Model Service/Product,10,£909.43,"£9,094.30",CON6351,0,0,60
+TRX00346,10/10/2024,02/11/2024,Monroe-Young,Facilities Maintenance,Operations,Individual Service/Product,4,£573.22,"£2,292.88",CON1876,422.14,395.83,60
+TRX00347,22/09/2023,26/09/2023,"Mcdowell, Martinez and Jenkins",Consulting,Operations,Beyond Service/Product,8,£672.50,"£5,380.00",CON4611,0,0,30
+TRX00348,15/01/2024,19/01/2024,Santos-Ellison,Facilities Maintenance,HR,Scientist Service/Product,10,£176.63,"£1,766.30",CON5006,0,0,60
+TRX00349,10/06/2025,04/07/2025,Hall-Daugherty,IT Services,Finance,Bar Service/Product,6,£169.26,"£1,015.56",CON5237,178.61,104.42,90
+TRX00350,16/05/2024,06/06/2024,Wallace-Bell,Logistics,HR,None Service/Product,5,£26.18,£130.90,CON1765,0,0,60
+TRX00351,31/01/2025,16/02/2025,Brooks-Reed,IT Services,Finance,Simple Service/Product,5,£269.84,"£1,349.20",,0,0,90
+TRX00352,30/11/2023,06/12/2023,"Reynolds, Martin and Beck",IT Services,Operations,Heavy Service/Product,8,£147.41,"£1,179.28",CON9543,213.11,44.02,60
+TRX00353,26/10/2023,03/11/2023,Benitez PLC,Facilities Maintenance,IT,Future Service/Product,10,£454.69,"£4,546.90",CON4363,584.45,134.95,90
+TRX00354,19/02/2025,17/03/2025,Bradley-Cobb,Medical Supplies,Operations,Send Service/Product,5,£997.83,"£4,989.15",,0,0,30
+TRX00355,07/11/2023,23/11/2023,Carey-Ferguson,Facilities Maintenance,Finance,Professional Service/Product,7,£568.80,"£3,981.60",,0,0,90
+TRX00356,07/05/2025,25/05/2025,Gutierrez LLC,Medical Supplies,Operations,Better Service/Product,7,£170.43,"£1,193.01",,137.84,134.63,90
+TRX00357,10/06/2025,28/06/2025,Smith Inc,Facilities Maintenance,HR,Determine Service/Product,2,£673.24,"£1,346.48",,202.15,199.46,90
+TRX00358,22/05/2025,10/06/2025,"Price, Mejia and Patterson",Medical Supplies,Admin,Appear Service/Product,3,£976.21,"£2,928.63",CON4921,0,0,90
+TRX00359,13/08/2024,24/08/2024,Mcdaniel-Jenkins,IT Services,Admin,Hand Service/Product,8,£980.80,"£7,846.40",CON7461,0,0,90
+TRX00360,16/02/2024,17/03/2024,Grant-Reyes,Logistics,Patient Care,Resource Service/Product,2,£150.17,£300.34,CON9653,0,0,60
+TRX00361,04/01/2024,22/01/2024,"Johnson, Hall and Herrera",Medical Supplies,Admin,Sound Service/Product,1,£784.33,£784.33,,0,0,90
+TRX00362,06/03/2025,19/03/2025,"Perez, Bowers and Murphy",Logistics,HR,Air Service/Product,4,£586.88,"£2,347.52",CON4068,0,0,60
+TRX00363,29/08/2024,19/09/2024,"Green, Davis and Mccullough",Logistics,Admin,Soldier Service/Product,8,£229.63,"£1,837.04",CON8402,0,0,60
+TRX00364,29/09/2024,05/10/2024,"Fields, Lopez and Pace",Logistics,Admin,Share Service/Product,1,£720.24,£720.24,,0,0,30
+TRX00365,01/11/2023,26/11/2023,Wheeler-Butler,Logistics,Patient Care,Join Service/Product,10,£241.48,"£2,414.80",CON2993,0,0,30
+TRX00366,01/02/2024,16/02/2024,White LLC,Facilities Maintenance,HR,Number Service/Product,6,£557.75,"£3,346.50",CON7955,0,0,90
+TRX00367,18/08/2024,26/08/2024,Booker Ltd,IT Services,HR,Officer Service/Product,1,£617.75,£617.75,CON4841,0,0,30
+TRX00368,05/09/2023,22/09/2023,"Newman, Khan and Howard",IT Services,Operations,Newspaper Service/Product,2,£488.24,£976.48,,0,0,60
+TRX00369,24/10/2023,01/11/2023,Stephens Inc,Medical Supplies,Operations,Natural Service/Product,1,£85.23,£85.23,CON2084,0,0,90
+TRX00370,21/03/2025,12/04/2025,"Hooper, Adams and Curtis",Medical Supplies,Operations,Star Service/Product,3,£366.59,"£1,099.77",CON1821,174.48,49.45,90
+TRX00371,28/02/2025,28/03/2025,Lawrence LLC,Medical Supplies,IT,Way Service/Product,5,£820.96,"£4,104.80",,467.7,265.93,90
+TRX00372,09/06/2024,21/06/2024,Torres-Jackson,Facilities Maintenance,Operations,Statement Service/Product,9,£842.07,"£7,578.63",CON4422,0,0,60
+TRX00373,11/10/2024,22/10/2024,"Collins, King and Allen",Facilities Maintenance,Patient Care,Letter Service/Product,2,£974.31,"£1,948.62",,0,0,30
+TRX00374,20/07/2023,13/08/2023,Maxwell PLC,Office Equipment,HR,Matter Service/Product,4,£775.22,"£3,100.88",CON4650,0,0,90
+TRX00375,08/07/2024,26/07/2024,"Wilson, Franklin and Ross",Consulting,IT,Difference Service/Product,10,£192.20,"£1,922.00",,0,0,60
+TRX00376,19/02/2025,13/03/2025,Carroll PLC,Consulting,Operations,Understand Service/Product,7,£779.28,"£5,454.96",CON4004,0,0,90
+TRX00377,02/02/2024,16/02/2024,Gallagher Ltd,Medical Supplies,Admin,Mind Service/Product,3,£343.28,"£1,029.84",CON5976,0,0,60
+TRX00378,28/02/2025,23/03/2025,"Hurley, Hudson and Stone",Consulting,Admin,Best Service/Product,1,£843.74,£843.74,,42.45,19.09,30
+TRX00379,27/06/2025,12/07/2025,"Allen, Riggs and Sullivan",Medical Supplies,Operations,Season Service/Product,1,£11.94,£11.94,,0,0,60
+TRX00380,14/07/2025,07/08/2025,Williams-Harrington,Consulting,Admin,Parent Service/Product,9,£494.79,"£4,453.11",CON7422,0,0,90
+TRX00381,10/09/2024,02/10/2024,Chavez PLC,Medical Supplies,Operations,Consider Service/Product,1,£763.86,£763.86,CON5373,0,0,90
+TRX00382,25/07/2024,23/08/2024,"Merritt, Stephens and Osborn",Logistics,HR,Foreign Service/Product,10,£541.60,"£5,416.00",,0,0,90
+TRX00383,12/10/2023,23/10/2023,Bowman Inc,IT Services,Patient Care,Court Service/Product,4,£85.38,£341.52,,63.25,41.04,30
+TRX00384,20/09/2024,29/09/2024,"Williams, Lowe and Bentley",Office Equipment,Patient Care,While Service/Product,9,£994.67,"£8,952.03",CON3358,901.6,503.28,30
+TRX00385,26/02/2024,10/03/2024,Swanson-Dixon,Facilities Maintenance,Admin,Sister Service/Product,9,£559.29,"£5,033.61",CON5209,0,0,90
+TRX00386,19/05/2025,17/06/2025,Bautista Inc,Medical Supplies,Admin,Fine Service/Product,7,£829.64,"£5,807.48",,933.9,891.99,90
+TRX00387,04/07/2025,19/07/2025,Caldwell-Marsh,Office Equipment,Finance,Occur Service/Product,9,£26.49,£238.41,CON5468,0,0,90
+TRX00388,05/04/2025,27/04/2025,Bowen Ltd,Consulting,Patient Care,National Service/Product,8,£855.64,"£6,845.12",CON8500,1335.26,553.88,60
+TRX00389,16/09/2024,01/10/2024,Stewart PLC,Office Equipment,Operations,Happy Service/Product,7,£241.47,"£1,690.29",,279.69,105.72,90
+TRX00390,07/11/2023,05/12/2023,Phillips and Sons,Facilities Maintenance,IT,Term Service/Product,4,£174.71,£698.84,,0,0,90
+TRX00391,17/02/2025,04/03/2025,Morgan Inc,IT Services,Operations,Brother Service/Product,8,£999.53,"£7,996.24",CON8479,0,0,30
+TRX00392,24/12/2023,09/01/2024,Cantu-Hill,Facilities Maintenance,Admin,Manage Service/Product,7,£450.16,"£3,151.12",CON8450,320.6,50.6,60
+TRX00393,27/12/2023,19/01/2024,Cain-Davis,Office Equipment,Patient Care,Music Service/Product,8,£856.70,"£6,853.60",CON7095,0,0,90
+TRX00394,31/01/2024,09/02/2024,Vincent and Sons,Medical Supplies,Patient Care,Court Service/Product,5,£811.23,"£4,056.15",CON2985,0,0,60
+TRX00395,07/09/2023,21/09/2023,Phillips Ltd,Office Equipment,Operations,Result Service/Product,3,£476.18,"£1,428.54",CON6816,0,0,90
+TRX00396,31/07/2024,17/08/2024,White-Townsend,Consulting,Admin,Owner Service/Product,10,£427.08,"£4,270.80",CON4711,0,0,30
+TRX00397,29/03/2025,10/04/2025,"Jackson, Harris and White",Medical Supplies,HR,Any Service/Product,2,£389.76,£779.52,CON7577,0,0,60
+TRX00398,15/02/2025,07/03/2025,Craig Ltd,Logistics,Finance,Let Service/Product,5,£397.19,"£1,985.95",,0,0,90
+TRX00399,25/04/2024,20/05/2024,Vincent-Jennings,Logistics,HR,International Service/Product,4,£411.69,"£1,646.76",CON4842,0,0,60
+TRX00400,16/06/2024,24/06/2024,Evans Ltd,Office Equipment,HR,Though Service/Product,4,£275.85,"£1,103.40",CON3318,0,0,30
+TRX00401,09/06/2025,29/06/2025,Garrett-Robles,Consulting,Finance,Popular Service/Product,7,£115.96,£811.72,CON8974,72.89,22.7,60
+TRX00402,08/09/2023,18/09/2023,Arellano-Boyd,IT Services,Finance,Center Service/Product,7,£361.36,"£2,529.52",CON9212,0,0,30
+TRX00403,24/11/2024,04/12/2024,Klein Inc,Medical Supplies,Finance,Spring Service/Product,8,£397.26,"£3,178.08",CON3042,0,0,60
+TRX00404,23/06/2024,05/07/2024,Rogers Ltd,Medical Supplies,Admin,Main Service/Product,7,£965.32,"£6,757.24",CON1631,0,0,90
+TRX00405,04/09/2023,26/09/2023,"Joseph, Warren and Wade",Consulting,Finance,Just Service/Product,8,£319.50,"£2,556.00",CON4628,0,0,90
+TRX00406,20/10/2024,27/10/2024,"Robertson, Ochoa and Cook",Medical Supplies,IT,Hand Service/Product,3,£947.15,"£2,841.45",,0,0,30
+TRX00407,11/03/2024,24/03/2024,"Evans, Liu and Lozano",Logistics,HR,Gun Service/Product,3,£410.24,"£1,230.72",,0,0,30
+TRX00408,24/02/2025,23/03/2025,Dennis Group,Medical Supplies,HR,Site Service/Product,8,£506.84,"£4,054.72",CON8199,0,0,30
+TRX00409,12/11/2024,04/12/2024,"Miller, Brady and Cunningham",Medical Supplies,Admin,No Service/Product,10,£75.05,£750.50,CON3382,117.01,102.28,90
+TRX00410,02/12/2024,12/12/2024,Mcknight-White,Office Equipment,Finance,Mention Service/Product,9,£368.96,"£3,320.64",,0,0,30
+TRX00411,11/12/2023,01/01/2024,Mathis Inc,IT Services,Operations,Society Service/Product,9,£939.40,"£8,454.60",CON5824,0,0,60
+TRX00412,20/07/2023,13/08/2023,"Bowman, Dawson and Contreras",Medical Supplies,Operations,Senior Service/Product,9,£930.24,"£8,372.16",,1087.63,503.04,60
+TRX00413,01/11/2024,10/11/2024,Jones Ltd,Logistics,Admin,Decision Service/Product,6,£883.15,"£5,298.90",CON7822,0,0,30
+TRX00414,03/03/2025,18/03/2025,"Smith, Becker and Armstrong",Facilities Maintenance,IT,Special Service/Product,3,£671.68,"£2,015.04",CON4566,0,0,30
+TRX00415,23/11/2023,16/12/2023,"Campos, Hudson and Merritt",Consulting,IT,Room Service/Product,8,£931.50,"£7,452.00",,0,0,90
+TRX00416,25/06/2025,23/07/2025,Ryan-Cardenas,Facilities Maintenance,Operations,Western Service/Product,6,£669.66,"£4,017.96",CON4194,658.51,644.58,90
+TRX00417,18/09/2023,02/10/2023,"Hines, Allen and Rodriguez",Consulting,IT,Name Service/Product,5,£699.98,"£3,499.90",CON9766,0,0,30
+TRX00418,08/06/2025,26/06/2025,Williams-Bautista,Logistics,Admin,Pretty Service/Product,1,£146.02,£146.02,CON5847,0,0,30
+TRX00419,25/07/2024,30/07/2024,Middleton PLC,Logistics,Operations,Quite Service/Product,4,£445.99,"£1,783.96",CON4367,0,0,30
+TRX00420,16/04/2025,19/04/2025,"Douglas, Willis and Nguyen",Logistics,Admin,Once Service/Product,4,£270.01,"£1,080.04",,0,0,30
+TRX00421,10/10/2023,04/11/2023,"Smith, Jones and Perez",Consulting,Admin,Interesting Service/Product,4,£158.55,£634.20,CON5008,0,0,60
+TRX00422,02/07/2024,23/07/2024,"Macdonald, Guerrero and Mckay",Logistics,HR,Management Service/Product,7,£355.23,"£2,486.61",,0,0,30
+TRX00423,04/07/2025,29/07/2025,Clayton Group,Consulting,HR,Simple Service/Product,7,£766.55,"£5,365.85",CON2107,0,0,60
+TRX00424,09/12/2023,12/12/2023,"Whitaker, Suarez and Mcconnell",IT Services,Admin,Themselves Service/Product,2,£641.46,"£1,282.92",CON1816,0,0,90
+TRX00425,23/04/2024,22/05/2024,"Martinez, Lee and Mccall",Facilities Maintenance,Patient Care,Marriage Service/Product,5,£805.33,"£4,026.65",CON6920,607.12,420.8,90
+TRX00426,11/04/2024,29/04/2024,Escobar and Sons,Logistics,HR,Voice Service/Product,2,£441.68,£883.36,CON4613,0,0,30
+TRX00427,05/01/2024,09/01/2024,"Bowen, Jacobs and Beck",Medical Supplies,Admin,Whatever Service/Product,6,£108.05,£648.30,,70.16,65.44,30
+TRX00428,05/10/2023,22/10/2023,"Pearson, Stevens and Hayes",Consulting,HR,Turn Service/Product,10,£903.52,"£9,035.20",,1688.76,738.05,30
+TRX00429,04/02/2024,12/02/2024,Matthews and Sons,IT Services,Operations,Represent Service/Product,8,£649.43,"£5,195.44",CON9635,368.67,119.31,90
+TRX00430,29/12/2023,20/01/2024,Gilmore-Charles,Office Equipment,Admin,Moment Service/Product,8,£335.50,"£2,684.00",,0,0,60
+TRX00431,02/05/2025,11/05/2025,Ferguson-Graham,Office Equipment,Operations,Most Service/Product,7,£32.04,£224.28,CON3320,18.39,11.49,60
+TRX00432,04/05/2024,24/05/2024,Craig and Sons,Office Equipment,Finance,Like Service/Product,2,£251.40,£502.80,CON9683,0,0,30
+TRX00433,07/01/2025,18/01/2025,Summers-Booker,Consulting,Patient Care,At Service/Product,7,£443.44,"£3,104.08",CON2566,0,0,60
+TRX00434,17/11/2024,02/12/2024,Hernandez Inc,Medical Supplies,Admin,Idea Service/Product,3,£632.92,"£1,898.76",CON8139,0,0,90
+TRX00435,19/11/2023,13/12/2023,Sloan Ltd,Logistics,HR,Yeah Service/Product,7,£951.86,"£6,663.02",CON1844,872.31,51.57,30
+TRX00436,05/12/2023,20/12/2023,Evans-Dennis,Facilities Maintenance,IT,Catch Service/Product,4,£658.36,"£2,633.44",CON1209,0,0,60
+TRX00437,09/10/2023,02/11/2023,"Solomon, Williams and Wood",Facilities Maintenance,Patient Care,Education Service/Product,8,£112.81,£902.48,,103.38,26.21,60
+TRX00438,29/11/2024,26/12/2024,King-Sawyer,Office Equipment,HR,Someone Service/Product,5,£108.78,£543.90,CON8704,0,0,30
+TRX00439,17/08/2024,05/09/2024,Wells-Ali,Medical Supplies,Patient Care,Nor Service/Product,4,£114.58,£458.32,CON9718,88.7,49.12,90
+TRX00440,29/11/2024,29/12/2024,Fox-Daniels,Logistics,Patient Care,Such Service/Product,3,£813.05,"£2,439.15",CON7258,442.29,238.34,90
+TRX00441,13/05/2024,16/05/2024,"Miller, Sanders and Lee",Facilities Maintenance,Operations,Serious Service/Product,10,£602.61,"£6,026.10",CON6620,0,0,30
+TRX00442,06/03/2025,02/04/2025,Mcdaniel-Cunningham,Medical Supplies,Operations,After Service/Product,6,£168.31,"£1,009.86",CON8282,0,0,30
+TRX00443,14/06/2025,10/07/2025,Campbell LLC,Medical Supplies,Patient Care,Tax Service/Product,6,£88.26,£529.56,CON8491,0,0,60
+TRX00444,13/03/2025,19/03/2025,Moss Group,Consulting,Finance,During Service/Product,2,£19.46,£38.92,CON5259,0,0,60
+TRX00445,07/12/2023,03/01/2024,Barrett Group,IT Services,HR,Television Service/Product,1,£486.12,£486.12,CON3492,25.38,11.49,60
+TRX00446,29/10/2024,06/11/2024,Coleman-Walker,Facilities Maintenance,Finance,Knowledge Service/Product,4,£341.28,"£1,365.12",,83.78,36.82,60
+TRX00447,10/07/2024,16/07/2024,"Johnson, Nielsen and Gonzalez",Logistics,Admin,Perhaps Service/Product,5,£741.07,"£3,705.35",CON9954,0,0,90
+TRX00448,27/12/2023,05/01/2024,"Floyd, Cline and Higgins",Medical Supplies,Patient Care,Stop Service/Product,3,£684.46,"£2,053.38",,0,0,30
+TRX00449,07/06/2024,26/06/2024,"Perez, Jones and Aguirre",IT Services,Finance,Local Service/Product,6,£158.90,£953.40,,0,0,90
+TRX00450,06/05/2025,15/05/2025,"Turner, Davis and Anderson",Medical Supplies,HR,Leave Service/Product,5,£790.40,"£3,952.00",CON9680,0,0,30
+TRX00451,09/12/2024,23/12/2024,"Roman, Sparks and White",IT Services,Finance,Enjoy Service/Product,10,£128.34,"£1,283.40",CON4261,86.55,63.07,60
+TRX00452,15/02/2025,16/03/2025,"Smith, Lopez and Thomas",Medical Supplies,Finance,Type Service/Product,5,£560.79,"£2,803.95",CON5365,386.78,386.73,90
+TRX00453,25/01/2025,19/02/2025,"White, Campbell and Jones",Office Equipment,Patient Care,Air Service/Product,4,£691.86,"£2,767.44",CON2837,0,0,60
+TRX00454,14/06/2024,02/07/2024,Moore-Fisher,IT Services,Patient Care,Officer Service/Product,4,£795.36,"£3,181.44",,241.44,226.03,30
+TRX00455,09/03/2024,20/03/2024,Thompson-Hunter,Facilities Maintenance,Admin,A Service/Product,6,£598.43,"£3,590.58",CON3554,0,0,30
+TRX00456,12/02/2024,17/02/2024,"Lang, Castillo and Hansen",Office Equipment,Finance,Executive Service/Product,5,£961.84,"£4,809.20",,0,0,90
+TRX00457,02/01/2025,22/01/2025,Powers Inc,IT Services,Patient Care,Better Service/Product,2,£864.79,"£1,729.58",CON4138,0,0,60
+TRX00458,07/04/2025,10/04/2025,"Wood, Carlson and Hughes",Office Equipment,Finance,Bank Service/Product,1,£454.69,£454.69,CON3366,0,0,90
+TRX00459,27/11/2023,18/12/2023,Wolf-Robbins,Facilities Maintenance,HR,He Service/Product,4,£495.65,"£1,982.60",,0,0,90
+TRX00460,06/04/2024,20/04/2024,Lee-Brooks,Consulting,IT,Return Service/Product,4,£46.54,£186.16,,0,0,60
+TRX00461,15/03/2025,12/04/2025,"Alvarez, Bauer and Carney",Logistics,Patient Care,Rise Service/Product,4,£889.06,"£3,556.24",CON5663,422.44,234.8,90
+TRX00462,29/11/2024,18/12/2024,Baxter Ltd,Logistics,Operations,Some Service/Product,10,£15.85,£158.50,,0,0,60
+TRX00463,12/08/2023,01/09/2023,Wilson Group,Logistics,Patient Care,Decide Service/Product,5,£653.63,"£3,268.15",,258,224.11,30
+TRX00464,13/04/2025,05/05/2025,"Hunt, Lang and Glover",Medical Supplies,Admin,Week Service/Product,5,£954.11,"£4,770.55",,0,0,30
+TRX00465,23/09/2023,16/10/2023,Robinson-Watts,IT Services,Patient Care,Key Service/Product,9,£654.50,"£5,890.50",,0,0,90
+TRX00466,06/06/2024,24/06/2024,White-Johnson,Facilities Maintenance,Admin,Tend Service/Product,1,£368.77,£368.77,,0,0,60
+TRX00467,03/06/2024,29/06/2024,Pacheco and Sons,IT Services,IT,Together Service/Product,3,£129.85,£389.55,,0,0,30
+TRX00468,27/04/2025,11/05/2025,Armstrong LLC,Facilities Maintenance,Patient Care,Ready Service/Product,3,£616.87,"£1,850.61",CON8235,0,0,60
+TRX00469,12/09/2024,01/10/2024,Hammond Group,Logistics,Patient Care,Administration Service/Product,6,£849.98,"£5,099.88",CON1764,873.87,615.11,30
+TRX00470,19/11/2024,30/11/2024,Moore and Sons,Facilities Maintenance,Patient Care,Conference Service/Product,2,£75.86,£151.72,CON9232,0,0,30
+TRX00471,13/06/2025,24/06/2025,Watson-Hendrix,Consulting,HR,Certain Service/Product,5,£577.23,"£2,886.15",,0,0,60
+TRX00472,21/04/2024,21/05/2024,Fernandez LLC,Facilities Maintenance,Admin,Feeling Service/Product,6,£747.24,"£4,483.44",CON4515,235.95,68.25,90
+TRX00473,10/07/2024,01/08/2024,"Ingram, Greene and Peters",Consulting,Finance,Agent Service/Product,10,£475.92,"£4,759.20",CON8887,0,0,90
+TRX00474,11/03/2025,27/03/2025,"Moore, Mcdonald and Tapia",IT Services,Finance,Source Service/Product,5,£328.15,"£1,640.75",CON4554,220.45,64.92,30
+TRX00475,21/06/2025,27/06/2025,Mejia-Huffman,Consulting,HR,Pressure Service/Product,7,£720.72,"£5,045.04",CON7613,0,0,60
+TRX00476,10/11/2024,23/11/2024,Bell-Gross,Facilities Maintenance,Operations,Fall Service/Product,6,£321.53,"£1,929.18",CON1663,147.27,52.62,60
+TRX00477,16/11/2024,01/12/2024,Fleming LLC,Office Equipment,Finance,Down Service/Product,1,£909.30,£909.30,CON9341,0,0,60
+TRX00478,21/12/2023,10/01/2024,"Davidson, Smith and Pugh",IT Services,Admin,Sign Service/Product,6,£892.93,"£5,357.58",CON2763,0,0,60
+TRX00479,25/02/2025,03/03/2025,Crawford-Cruz,Facilities Maintenance,Admin,Available Service/Product,7,£816.50,"£5,715.50",,0,0,60
+TRX00480,07/09/2023,10/09/2023,"Young, Simmons and Mercado",Facilities Maintenance,Finance,Else Service/Product,3,£489.20,"£1,467.60",,0,0,30
+TRX00481,08/12/2024,05/01/2025,Bruce-Thomas,Facilities Maintenance,Finance,White Service/Product,9,£153.95,"£1,385.55",CON3148,232.79,116.66,60
+TRX00482,02/07/2025,26/07/2025,Duncan Ltd,IT Services,IT,Wife Service/Product,7,£35.68,£249.76,CON4647,0,0,60
+TRX00483,22/08/2023,20/09/2023,Harrison-Sutton,Office Equipment,Patient Care,Institution Service/Product,10,£675.94,"£6,759.40",CON1349,0,0,90
+TRX00484,27/11/2024,17/12/2024,"Pratt, Miles and Avila",IT Services,Operations,Go Service/Product,1,£422.18,£422.18,CON9021,56.8,38.01,90
+TRX00485,12/09/2023,08/10/2023,Hart Ltd,Logistics,Admin,Short Service/Product,3,£12.02,£36.06,,0,0,30
+TRX00486,25/02/2024,26/03/2024,"Bolton, Bauer and Luna",Medical Supplies,IT,Center Service/Product,10,£711.08,"£7,110.80",CON4043,0,0,30
+TRX00487,19/02/2024,24/02/2024,Dominguez LLC,Medical Supplies,Patient Care,Again Service/Product,8,£632.25,"£5,058.00",CON5121,0,0,30
+TRX00488,19/09/2024,26/09/2024,"Stewart, Williams and Rodriguez",IT Services,Operations,Open Service/Product,5,£311.34,"£1,556.70",CON8495,0,0,90
+TRX00489,07/05/2024,20/05/2024,"Riggs, Brown and Smith",Office Equipment,Admin,Not Service/Product,7,£713.79,"£4,996.53",,268.79,241.66,60
+TRX00490,24/10/2024,30/10/2024,Jimenez-Stone,Consulting,Finance,Relationship Service/Product,8,£400.34,"£3,202.72",,237.62,44.04,90
+TRX00491,01/09/2024,12/09/2024,"Hill, Todd and Curry",Facilities Maintenance,Patient Care,Concern Service/Product,9,£522.70,"£4,704.30",CON7381,0,0,30
+TRX00492,31/07/2023,12/08/2023,Fernandez Group,Facilities Maintenance,Patient Care,Build Service/Product,5,£372.77,"£1,863.85",CON6008,0,0,60
+TRX00493,06/01/2025,22/01/2025,Ramirez and Sons,Consulting,Patient Care,Call Service/Product,5,£579.02,"£2,895.10",,181.09,58.25,90
+TRX00494,08/06/2024,14/06/2024,Ortiz and Sons,Medical Supplies,IT,We Service/Product,3,£925.83,"£2,777.49",CON6936,0,0,90
+TRX00495,07/07/2024,20/07/2024,Gomez PLC,Facilities Maintenance,Finance,Agreement Service/Product,2,£116.84,£233.68,,0,0,90
+TRX00496,04/12/2023,03/01/2024,Williams Inc,Office Equipment,Finance,Various Service/Product,4,£235.17,£940.68,,140.75,8.42,30
+TRX00497,13/06/2025,29/06/2025,Davis LLC,Logistics,Patient Care,Least Service/Product,9,£333.38,"£3,000.42",CON9254,0,0,30
+TRX00498,19/03/2024,29/03/2024,"Cruz, Adams and Maxwell",Medical Supplies,HR,Already Service/Product,6,£325.67,"£1,954.02",CON6369,0,0,90
+TRX00499,17/01/2024,07/02/2024,Bowman Ltd,Facilities Maintenance,Patient Care,Moment Service/Product,1,£716.23,£716.23,CON1721,64.21,38.79,60
+TRX00500,30/08/2023,05/09/2023,"Bennett, Krause and Ortiz",IT Services,IT,Three Service/Product,7,£154.85,"£1,083.95",CON6845,65.05,23.46,60
+TRX00501,12/12/2024,11/01/2025,Spears LLC,Office Equipment,Operations,Stop Service/Product,4,£88.88,£355.52,CON2414,0,0,30
+TRX00502,07/10/2024,28/10/2024,Woods-Herrera,Logistics,Operations,Drop Service/Product,10,£419.77,"£4,197.70",CON1979,0,0,30
+TRX00503,16/08/2023,06/09/2023,Washington-White,Office Equipment,Finance,Future Service/Product,6,£401.81,"£2,410.86",,156.59,78.36,60
+TRX00504,22/02/2024,20/03/2024,"Moore, York and Roberts",IT Services,Finance,Program Service/Product,6,£959.03,"£5,754.18",CON6685,0,0,30
+TRX00505,26/06/2025,06/07/2025,Dean-Roberts,Medical Supplies,HR,Second Service/Product,5,£279.79,"£1,398.95",CON1501,0,0,90
+TRX00506,04/04/2024,20/04/2024,"Lee, Hawkins and Barrett",Office Equipment,Finance,Claim Service/Product,10,£548.84,"£5,488.40",CON9692,0,0,30
+TRX00507,12/01/2024,30/01/2024,Brady LLC,Logistics,Admin,Seat Service/Product,1,£236.73,£236.73,,26.95,23.12,60
+TRX00508,08/12/2024,16/12/2024,Brown PLC,Office Equipment,Finance,Nice Service/Product,9,£616.93,"£5,552.37",,0,0,30
+TRX00509,31/12/2024,29/01/2025,Francis-Jordan,Consulting,Admin,Rather Service/Product,2,£835.12,"£1,670.24",,0,0,30
+TRX00510,11/08/2024,16/08/2024,Lee-Shields,Office Equipment,HR,Seat Service/Product,2,£478.31,£956.62,,0,0,90
+TRX00511,15/06/2025,06/07/2025,Ponce-Miller,Office Equipment,IT,New Service/Product,6,£338.52,"£2,031.12",CON4475,406.22,229.34,30
+TRX00512,08/01/2024,29/01/2024,Price-Yang,Facilities Maintenance,IT,Relate Service/Product,6,£433.87,"£2,603.22",,0,0,30
+TRX00513,22/02/2024,07/03/2024,"Smith, Cox and Baker",Facilities Maintenance,IT,Side Service/Product,5,£915.18,"£4,575.90",CON1818,403.44,241,30
+TRX00514,29/03/2024,19/04/2024,Wang and Sons,Medical Supplies,Patient Care,Question Service/Product,4,£522.90,"£2,091.60",CON4205,0,0,30
+TRX00515,16/07/2024,03/08/2024,"Johnson, Mendoza and Fitzpatrick",Medical Supplies,Patient Care,Produce Service/Product,7,£540.69,"£3,784.83",CON9928,432.07,107.14,30
+TRX00516,23/09/2024,08/10/2024,"Leonard, Stewart and Smith",Office Equipment,IT,Write Service/Product,3,£486.26,"£1,458.78",CON6571,0,0,90
+TRX00517,01/09/2024,25/09/2024,Rhodes-Swanson,Facilities Maintenance,Finance,Reveal Service/Product,3,£713.68,"£2,141.04",,400.6,395.33,60
+TRX00518,01/04/2025,13/04/2025,"Yoder, Hill and Garcia",Logistics,Patient Care,Serve Service/Product,4,£613.49,"£2,453.96",,0,0,30
+TRX00519,08/04/2025,18/04/2025,Andrade-Turner,Office Equipment,HR,Door Service/Product,10,£50.11,£501.10,,47.51,26.45,30
+TRX00520,03/12/2023,25/12/2023,Rosales Inc,Office Equipment,Finance,Manager Service/Product,4,£230.07,£920.28,CON6637,0,0,90
+TRX00521,22/07/2023,31/07/2023,Cooper Ltd,Office Equipment,Admin,Know Service/Product,4,£930.48,"£3,721.92",,194.77,165.69,60
+TRX00522,16/01/2024,27/01/2024,"Lane, Rich and Rollins",Office Equipment,HR,Condition Service/Product,8,£339.84,"£2,718.72",CON1551,0,0,60
+TRX00523,15/10/2024,30/10/2024,Butler Ltd,Facilities Maintenance,Finance,Political Service/Product,2,£505.10,"£1,010.20",CON7798,86.92,10.38,90
+TRX00524,20/04/2024,18/05/2024,Huang Ltd,Facilities Maintenance,Operations,Discuss Service/Product,3,£687.09,"£2,061.27",CON2168,0,0,90
+TRX00525,08/07/2025,18/07/2025,Cooper PLC,Logistics,Admin,Two Service/Product,10,£848.56,"£8,485.60",CON6616,0,0,30
+TRX00526,09/05/2025,31/05/2025,Nunez-Sheppard,Logistics,Operations,Relationship Service/Product,9,£495.30,"£4,457.70",CON2266,0,0,30
+TRX00527,17/03/2025,01/04/2025,Gomez Group,Logistics,IT,Major Service/Product,1,£21.48,£21.48,CON9611,0,0,30
+TRX00528,01/01/2025,12/01/2025,Davidson-Wilson,Medical Supplies,IT,Team Service/Product,9,£960.19,"£8,641.71",CON1905,0,0,90
+TRX00529,09/01/2025,03/02/2025,Strickland-Contreras,Office Equipment,Finance,Save Service/Product,8,£488.64,"£3,909.12",,0,0,90
+TRX00530,19/02/2024,14/03/2024,Brooks-Barrera,IT Services,Admin,Issue Service/Product,1,£758.12,£758.12,CON9092,0,0,30
+TRX00531,03/12/2023,07/12/2023,Morgan and Sons,Consulting,Admin,Figure Service/Product,4,£224.11,£896.44,CON7397,105.16,94.08,90
+TRX00532,28/06/2025,19/07/2025,Reid-Obrien,Logistics,Operations,Easy Service/Product,10,£165.79,"£1,657.90",CON2207,0,0,90
+TRX00533,11/01/2024,09/02/2024,Jackson-Jensen,Logistics,Patient Care,Fine Service/Product,4,£965.79,"£3,863.16",,0,0,90
+TRX00534,24/03/2025,16/04/2025,Lewis Inc,Consulting,Patient Care,Support Service/Product,3,£84.18,£252.54,CON1039,0,0,60
+TRX00535,02/06/2024,23/06/2024,Lane Inc,Logistics,HR,Unit Service/Product,7,£938.22,"£6,567.54",CON3134,0,0,60
+TRX00536,14/06/2025,01/07/2025,"Cobb, Silva and Thomas",Logistics,HR,Idea Service/Product,1,£188.18,£188.18,CON8328,30.34,2.74,90
+TRX00537,06/02/2024,14/02/2024,Lewis and Sons,Consulting,Patient Care,Prevent Service/Product,9,£597.99,"£5,381.91",,891.32,83.97,30
+TRX00538,07/05/2024,19/05/2024,Duran Inc,Logistics,Finance,Goal Service/Product,4,£843.55,"£3,374.20",CON8580,0,0,60
+TRX00539,29/01/2025,21/02/2025,King Inc,Medical Supplies,HR,Involve Service/Product,6,£985.25,"£5,911.50",CON6826,0,0,60
+TRX00540,22/04/2025,25/04/2025,Clements Ltd,IT Services,Patient Care,Bank Service/Product,8,£109.23,£873.84,CON5963,0,0,90
+TRX00541,31/08/2023,11/09/2023,"Allen, Zimmerman and Roberts",Office Equipment,Finance,Might Service/Product,3,£917.11,"£2,751.33",CON3804,0,0,30
+TRX00542,10/10/2023,19/10/2023,Mendoza-Williams,Office Equipment,IT,Should Service/Product,6,£290.11,"£1,740.66",CON7990,0,0,90
+TRX00543,07/04/2024,12/04/2024,"Hughes, Ali and Harris",Office Equipment,IT,Raise Service/Product,3,£563.04,"£1,689.12",,170.65,54.44,90
+TRX00544,24/11/2024,21/12/2024,Brown Inc,Logistics,Patient Care,Born Service/Product,9,£738.39,"£6,645.51",CON5397,372.11,194.56,30
+TRX00545,24/12/2023,31/12/2023,"Le, Travis and Roberts",Consulting,Admin,Evening Service/Product,8,£383.87,"£3,070.96",CON8521,0,0,60
+TRX00546,02/06/2024,30/06/2024,Wiggins-Douglas,Consulting,Patient Care,Concern Service/Product,9,£796.64,"£7,169.76",CON1709,1352.89,1091.45,60
+TRX00547,10/03/2025,08/04/2025,"Morris, Morris and Robertson",IT Services,IT,Just Service/Product,4,£923.07,"£3,692.28",CON1314,0,0,90
+TRX00548,04/04/2024,13/04/2024,Parker and Sons,Office Equipment,Patient Care,Million Service/Product,5,£533.03,"£2,665.15",CON1598,0,0,30
+TRX00549,05/11/2023,29/11/2023,Carter Inc,IT Services,Patient Care,The Service/Product,2,£36.63,£73.26,CON4862,6.33,6.26,60
+TRX00550,25/11/2024,13/12/2024,Davis-Hurley,Medical Supplies,Operations,Yourself Service/Product,10,£944.97,"£9,449.70",CON7640,0,0,90
+TRX00551,08/02/2024,23/02/2024,"Hardy, Carter and Wilson",IT Services,Finance,Help Service/Product,3,£112.47,£337.41,CON2252,17.21,5.61,60
+TRX00552,06/12/2023,04/01/2024,"Kelly, Webb and Hurley",Consulting,Admin,Quite Service/Product,10,£784.68,"£7,846.80",CON3735,0,0,60
+TRX00553,03/07/2024,06/07/2024,Cooper and Sons,Consulting,Finance,Their Service/Product,2,£880.14,"£1,760.28",CON6801,205.9,174.13,30
+TRX00554,06/09/2024,19/09/2024,"Santiago, Combs and Singleton",Logistics,HR,Billion Service/Product,5,£424.60,"£2,123.00",CON5485,126.04,54.1,30
+TRX00555,24/01/2025,28/01/2025,Hatfield-Lee,IT Services,Admin,Republican Service/Product,9,£12.48,£112.32,CON8338,15.28,9.39,60
+TRX00556,16/06/2025,30/06/2025,"Richardson, Conner and Davis",Office Equipment,Admin,Factor Service/Product,2,£874.88,"£1,749.76",CON2146,0,0,60
+TRX00557,07/06/2024,25/06/2024,Hernandez PLC,Medical Supplies,Finance,Year Service/Product,3,£962.90,"£2,888.70",CON4416,0,0,30
+TRX00558,05/09/2024,17/09/2024,"Murray, Harris and Wright",Medical Supplies,HR,See Service/Product,7,£221.15,"£1,548.05",CON6383,0,0,30
+TRX00559,30/07/2023,24/08/2023,Cruz Inc,Consulting,Patient Care,Pm Service/Product,1,£155.49,£155.49,CON7549,0,0,60
+TRX00560,10/10/2024,05/11/2024,Barnes Group,Facilities Maintenance,Operations,Product Service/Product,9,£827.65,"£7,448.85",CON3869,0,0,90
+TRX00561,08/06/2025,27/06/2025,"Cabrera, Taylor and Smith",Office Equipment,IT,Politics Service/Product,10,£890.34,"£8,903.40",CON3957,0,0,90
+TRX00562,06/06/2025,11/06/2025,"Norton, Taylor and Lucas",IT Services,Admin,Look Service/Product,8,£100.13,£801.04,CON3789,140.5,96.44,90
+TRX00563,12/04/2024,19/04/2024,"Walsh, Fields and Washington",Logistics,HR,Sense Service/Product,6,£766.44,"£4,598.64",,0,0,60
+TRX00564,05/10/2024,14/10/2024,Parrish-Poole,Office Equipment,HR,Still Service/Product,3,£28.68,£86.04,CON8358,10.02,1.15,60
+TRX00565,01/06/2025,01/07/2025,Green and Sons,Facilities Maintenance,Finance,Difference Service/Product,8,£648.70,"£5,189.60",CON7961,719.05,478.92,60
+TRX00566,22/07/2024,16/08/2024,Hopkins-Glass,Medical Supplies,Admin,Him Service/Product,6,£488.36,"£2,930.16",,0,0,30
+TRX00567,22/10/2023,04/11/2023,Rhodes-Johnson,IT Services,Admin,Western Service/Product,7,£51.09,£357.63,CON9669,0,0,30
+TRX00568,04/06/2024,21/06/2024,"Boyer, Molina and Warren",Logistics,Finance,Election Service/Product,4,£587.23,"£2,348.92",CON2578,0,0,90
+TRX00569,25/01/2024,01/02/2024,"Bennett, Pearson and Harris",Logistics,Operations,Coach Service/Product,5,£33.24,£166.20,CON5192,0,0,90
+TRX00570,26/01/2024,11/02/2024,Snow LLC,Consulting,Patient Care,Environmental Service/Product,5,£523.91,"£2,619.55",CON6121,0,0,90
+TRX00571,14/03/2025,05/04/2025,"Moore, Frazier and Greer",IT Services,HR,Attention Service/Product,2,£451.56,£903.12,CON3506,0,0,90
+TRX00572,24/10/2024,05/11/2024,Davis-Henry,Facilities Maintenance,Operations,Camera Service/Product,6,£510.34,"£3,062.04",CON6649,0,0,60
+TRX00573,11/02/2024,19/02/2024,"Davis, Johnson and Cantrell",Logistics,Finance,Increase Service/Product,6,£600.13,"£3,600.78",,0,0,60
+TRX00574,27/04/2024,18/05/2024,Shepard Group,IT Services,HR,Light Service/Product,7,£277.46,"£1,942.22",CON4655,0,0,90
+TRX00575,19/01/2025,25/01/2025,"Mcfarland, Scott and Sanchez",Consulting,IT,Occur Service/Product,1,£90.35,£90.35,CON5619,0,0,90
+TRX00576,11/08/2024,03/09/2024,Haney and Sons,Logistics,Operations,While Service/Product,10,£270.19,"£2,701.90",,0,0,60
+TRX00577,01/08/2023,19/08/2023,Thompson-Nguyen,Facilities Maintenance,IT,Tell Service/Product,7,£181.68,"£1,271.76",CON3927,163.76,10.14,60
+TRX00578,13/12/2023,09/01/2024,Jordan-Mitchell,Facilities Maintenance,Operations,Candidate Service/Product,8,£526.72,"£4,213.76",,0,0,60
+TRX00579,22/06/2024,28/06/2024,Rice and Sons,Facilities Maintenance,IT,Those Service/Product,8,£488.60,"£3,908.80",CON4767,0,0,30
+TRX00580,25/08/2024,23/09/2024,Bartlett-Oconnor,IT Services,HR,Single Service/Product,8,£878.88,"£7,031.04",,0,0,30
+TRX00581,27/06/2025,07/07/2025,"Gregory, Simmons and Miller",Logistics,Admin,Now Service/Product,9,£797.62,"£7,178.58",CON1708,0,0,30
+TRX00582,17/10/2023,06/11/2023,Price LLC,Medical Supplies,IT,Camera Service/Product,2,£867.23,"£1,734.46",,88.18,52.97,30
+TRX00583,10/09/2023,16/09/2023,"Green, Maddox and Harris",Logistics,Patient Care,Either Service/Product,5,£573.53,"£2,867.65",CON7041,469.48,85.25,60
+TRX00584,27/08/2023,12/09/2023,Walker-Spears,Medical Supplies,Finance,President Service/Product,8,£383.65,"£3,069.20",,0,0,90
+TRX00585,28/04/2025,15/05/2025,Jones PLC,Office Equipment,Finance,Future Service/Product,4,£830.24,"£3,320.96",CON3403,0,0,60
+TRX00586,31/08/2024,06/09/2024,Thompson Ltd,Logistics,Patient Care,Stage Service/Product,2,£969.63,"£1,939.26",,0,0,90
+TRX00587,27/04/2025,19/05/2025,"Myers, Wilson and Carr",Office Equipment,HR,Fall Service/Product,10,£315.35,"£3,153.50",,181.07,58.67,60
+TRX00588,10/10/2023,03/11/2023,Wong-Romero,IT Services,Finance,Join Service/Product,10,£980.59,"£9,805.90",CON1505,0,0,30
+TRX00589,02/06/2024,05/06/2024,"Smith, Huerta and Mack",Office Equipment,HR,Foot Service/Product,5,£978.58,"£4,892.90",CON2193,0,0,30
+TRX00590,14/07/2025,30/07/2025,"Sandoval, Harris and Stafford",IT Services,IT,Nature Service/Product,2,£580.09,"£1,160.18",,0,0,30
+TRX00591,18/12/2023,05/01/2024,Kent-Smith,Consulting,Admin,How Service/Product,2,£491.83,£983.66,CON5956,166.83,55.42,90
+TRX00592,09/02/2025,12/02/2025,"Payne, Mooney and Jordan",Office Equipment,Patient Care,Society Service/Product,4,£761.41,"£3,045.64",CON4795,0,0,30
+TRX00593,09/08/2024,21/08/2024,Avila and Sons,Logistics,Patient Care,Phone Service/Product,5,£694.17,"£3,470.85",CON6265,673.7,620.75,90
+TRX00594,19/05/2024,18/06/2024,Austin-Baker,Facilities Maintenance,Patient Care,Wonder Service/Product,1,£297.94,£297.94,CON2821,56.38,5,60
+TRX00595,14/09/2023,12/10/2023,Jordan-Ross,Office Equipment,Admin,Arm Service/Product,4,£352.88,"£1,411.52",CON9099,175.11,164.03,60
+TRX00596,11/05/2024,16/05/2024,Bolton-Mccann,Consulting,HR,Particular Service/Product,7,£967.38,"£6,771.66",CON7701,589.7,296.22,60
+TRX00597,16/04/2025,20/04/2025,Hill PLC,Logistics,HR,Community Service/Product,9,£369.61,"£3,326.49",CON8003,0,0,30
+TRX00598,13/03/2024,07/04/2024,"Norman, Rice and Garcia",Facilities Maintenance,Patient Care,Appear Service/Product,7,£919.78,"£6,438.46",,0,0,30
+TRX00599,30/03/2025,10/04/2025,Nichols-Johnson,Logistics,IT,Meeting Service/Product,5,£192.86,£964.30,CON3426,0,0,60
+TRX00600,05/12/2023,13/12/2023,Morgan-Vaughan,Logistics,HR,Range Service/Product,10,£881.27,"£8,812.70",CON4195,0,0,60
+TRX00601,18/02/2024,12/03/2024,Malone Inc,IT Services,Patient Care,Career Service/Product,9,£421.74,"£3,795.66",CON4379,0,0,30
+TRX00602,22/07/2023,09/08/2023,"Pratt, Contreras and Young",Office Equipment,Admin,Husband Service/Product,2,£435.45,£870.90,CON6777,0,0,30
+TRX00603,17/01/2025,07/02/2025,"Allen, Martinez and Meyers",Logistics,Operations,Base Service/Product,10,£810.41,"£8,104.10",CON3750,0,0,90
+TRX00604,11/02/2025,20/02/2025,"Huffman, Shepherd and Carter",IT Services,Admin,Mean Service/Product,6,£675.38,"£4,052.28",,0,0,90
+TRX00605,06/08/2024,10/08/2024,"Lopez, Allen and Morales",Logistics,Admin,Hotel Service/Product,5,£577.59,"£2,887.95",,445.08,385.32,60
+TRX00606,02/10/2024,26/10/2024,Mitchell-Vaughn,Medical Supplies,Admin,Quite Service/Product,10,£645.46,"£6,454.60",,0,0,90
+TRX00607,21/04/2025,29/04/2025,Johnston-Potter,Office Equipment,IT,Organization Service/Product,4,£833.14,"£3,332.56",,0,0,30
+TRX00608,11/02/2024,08/03/2024,Henry LLC,Facilities Maintenance,IT,And Service/Product,10,£352.56,"£3,525.60",CON1796,0,0,60
+TRX00609,14/03/2024,03/04/2024,Brown LLC,Consulting,Admin,Would Service/Product,10,£232.32,"£2,323.20",,0,0,30
+TRX00610,12/05/2024,05/06/2024,"Crawford, Merritt and Rodriguez",Office Equipment,Operations,Record Service/Product,9,£35.88,£322.92,CON5492,46.83,30.71,90
+TRX00611,06/10/2023,25/10/2023,Stewart-Ortiz,Logistics,Admin,Foreign Service/Product,7,£907.83,"£6,354.81",CON6803,0,0,30
+TRX00612,26/11/2024,22/12/2024,George-Dixon,Logistics,Patient Care,Once Service/Product,6,£249.85,"£1,499.10",,0,0,60
+TRX00613,12/11/2024,18/11/2024,"Wells, Watts and Cervantes",Office Equipment,IT,Push Service/Product,3,£636.39,"£1,909.17",CON5869,256.31,47.02,90
+TRX00614,16/06/2025,27/06/2025,Martinez Group,Consulting,Operations,Blood Service/Product,10,£121.47,"£1,214.70",CON4050,0,0,90
+TRX00615,06/06/2024,22/06/2024,Spears-Butler,Consulting,Patient Care,Nature Service/Product,2,£23.34,£46.68,CON9073,0,0,60
+TRX00616,02/09/2023,10/09/2023,Yates PLC,Medical Supplies,IT,Condition Service/Product,7,£502.02,"£3,514.14",CON7196,0,0,90
+TRX00617,23/08/2023,05/09/2023,Rice LLC,Medical Supplies,Finance,Although Service/Product,2,£604.86,"£1,209.72",CON5761,0,0,60
+TRX00618,09/01/2024,12/01/2024,Hooper-Nunez,Office Equipment,Finance,So Service/Product,8,£667.01,"£5,336.08",,0,0,60
+TRX00619,19/09/2023,26/09/2023,"Sullivan, Bell and Everett",Facilities Maintenance,IT,Art Service/Product,1,£281.50,£281.50,CON1731,38.39,16.17,90
+TRX00620,20/03/2024,01/04/2024,Gibson Inc,Medical Supplies,Finance,Might Service/Product,1,£231.06,£231.06,CON5922,26.37,21.04,90
+TRX00621,14/12/2024,11/01/2025,"Clark, Riley and Terry",Office Equipment,Operations,Analysis Service/Product,10,£37.49,£374.90,CON2766,50.4,42.8,90
+TRX00622,22/06/2024,17/07/2024,Jackson-Rose,Facilities Maintenance,HR,Discover Service/Product,9,£156.62,"£1,409.58",CON1094,191.32,98.79,90
+TRX00623,30/01/2025,01/03/2025,"Freeman, Herrera and Dickerson",Consulting,HR,Painting Service/Product,8,£555.82,"£4,446.56",CON5728,238.27,184.94,60
+TRX00624,05/03/2024,28/03/2024,Park-Mcgee,Consulting,HR,Nice Service/Product,2,£340.67,£681.34,,87.97,26.3,60
+TRX00625,30/12/2024,13/01/2025,"Stewart, Walton and Ayala",IT Services,Operations,Food Service/Product,1,£911.99,£911.99,CON2006,0,0,30
+TRX00626,08/09/2024,26/09/2024,Marks-Harris,Office Equipment,HR,Near Service/Product,8,£422.23,"£3,377.84",CON6772,0,0,60
+TRX00627,24/10/2023,11/11/2023,Hunter Group,Medical Supplies,Finance,However Service/Product,3,£796.80,"£2,390.40",CON2444,0,0,90
+TRX00628,10/06/2024,29/06/2024,Anderson-Bailey,Logistics,HR,Look Service/Product,8,£826.07,"£6,608.56",CON7692,0,0,30
+TRX00629,31/05/2024,25/06/2024,Norton Ltd,Office Equipment,Operations,Along Service/Product,3,£660.95,"£1,982.85",CON3943,0,0,60
+TRX00630,18/11/2024,07/12/2024,Brock-Mason,Logistics,Admin,Five Service/Product,1,£17.88,£17.88,CON3682,0,0,60
+TRX00631,16/06/2024,02/07/2024,Oconnor Inc,IT Services,IT,Baby Service/Product,8,£639.93,"£5,119.44",CON8041,722.11,227.63,90
+TRX00632,16/12/2023,14/01/2024,Kemp-Johnson,Medical Supplies,Admin,Technology Service/Product,7,£607.40,"£4,251.80",,0,0,90
+TRX00633,15/06/2025,22/06/2025,Howard PLC,Logistics,HR,Quite Service/Product,1,£765.69,£765.69,CON1894,0,0,30
+TRX00634,04/01/2025,16/01/2025,George Ltd,Medical Supplies,IT,Toward Service/Product,7,£259.17,"£1,814.19",CON1130,229.88,14.36,90
+TRX00635,01/03/2024,19/03/2024,"Carlson, Howard and Vance",Facilities Maintenance,HR,Fall Service/Product,5,£610.12,"£3,050.60",,0,0,60
+TRX00636,25/05/2024,08/06/2024,Carrillo PLC,Office Equipment,Operations,Mind Service/Product,6,£238.54,"£1,431.24",CON4610,0,0,90
+TRX00637,17/12/2024,02/01/2025,"Robinson, Williams and Villarreal",Facilities Maintenance,HR,Partner Service/Product,6,£730.95,"£4,385.70",CON7276,703,458.69,60
+TRX00638,16/02/2024,11/03/2024,Williams Group,Facilities Maintenance,Finance,Subject Service/Product,8,£923.76,"£7,390.08",CON8498,0,0,90
+TRX00639,16/06/2025,25/06/2025,"Fuentes, White and Snyder",Medical Supplies,Finance,Production Service/Product,4,£989.34,"£3,957.36",,0,0,60
+TRX00640,19/07/2023,25/07/2023,Thompson Group,IT Services,Admin,Affect Service/Product,5,£663.80,"£3,319.00",,0,0,30
+TRX00641,20/11/2023,19/12/2023,Mendez LLC,IT Services,Operations,Majority Service/Product,1,£407.37,£407.37,CON1150,0,0,30
+TRX00642,25/11/2024,22/12/2024,"Diaz, Owens and Chen",Facilities Maintenance,Finance,Might Service/Product,4,£680.28,"£2,721.12",CON8077,0,0,30
+TRX00643,22/02/2024,18/03/2024,Miller Inc,Facilities Maintenance,Patient Care,Feeling Service/Product,2,£830.20,"£1,660.40",,0,0,60
+TRX00644,20/01/2025,30/01/2025,Gray PLC,Logistics,IT,Drop Service/Product,5,£124.22,£621.10,CON5656,0,0,90
+TRX00645,20/07/2023,12/08/2023,Morris-Clark,Facilities Maintenance,Admin,Brother Service/Product,9,£844.27,"£7,598.43",,0,0,90
+TRX00646,12/09/2024,10/10/2024,"Phillips, Rose and Thornton",Medical Supplies,Admin,If Service/Product,1,£556.22,£556.22,CON8364,0,0,30
+TRX00647,06/06/2025,10/06/2025,Jimenez PLC,Office Equipment,Patient Care,Western Service/Product,10,£680.36,"£6,803.60",CON2346,0,0,60
+TRX00648,10/02/2024,04/03/2024,Nguyen Ltd,Consulting,Operations,Recognize Service/Product,8,£347.98,"£2,783.84",CON4112,0,0,30
+TRX00649,16/07/2024,14/08/2024,Roach and Sons,Consulting,Patient Care,Commercial Service/Product,3,£840.77,"£2,522.31",CON1127,0,0,90
+TRX00650,30/04/2024,09/05/2024,Webster Group,Facilities Maintenance,Operations,And Service/Product,1,£581.65,£581.65,CON9502,0,0,90
+TRX00651,10/11/2024,28/11/2024,Lewis-Garner,IT Services,IT,Wide Service/Product,3,£935.90,"£2,807.70",CON5994,419.5,365.05,30
+TRX00652,12/02/2024,29/02/2024,Mason PLC,Office Equipment,Admin,Speech Service/Product,6,£279.27,"£1,675.62",CON2630,126.66,43.18,60
+TRX00653,28/07/2024,31/07/2024,Johnson-Lawrence,Medical Supplies,IT,Back Service/Product,7,£519.55,"£3,636.85",CON8738,0,0,60
+TRX00654,28/05/2024,07/06/2024,Luna PLC,Office Equipment,HR,Provide Service/Product,10,£59.19,£591.90,CON3377,0,0,60
+TRX00655,06/10/2024,17/10/2024,"Compton, Kline and Martin",Logistics,Operations,They Service/Product,6,£99.47,£596.82,CON7816,0,0,30
+TRX00656,01/06/2024,13/06/2024,Moore PLC,Logistics,Admin,Price Service/Product,2,£316.88,£633.76,CON2449,0,0,90
+TRX00657,13/07/2025,10/08/2025,"Parker, Ward and Jenkins",Facilities Maintenance,IT,Together Service/Product,5,£695.14,"£3,475.70",CON9366,0,0,60
+TRX00658,29/06/2025,10/07/2025,"Parker, Stewart and Robbins",Office Equipment,HR,Serious Service/Product,9,£411.70,"£3,705.30",CON7265,0,0,30
+TRX00659,10/09/2023,26/09/2023,Miller LLC,Medical Supplies,HR,Tv Service/Product,2,£537.73,"£1,075.46",,179.57,24.28,60
+TRX00660,17/08/2024,12/09/2024,Nelson-Salazar,Office Equipment,IT,Near Service/Product,2,£765.54,"£1,531.08",CON3868,232.59,213.4,90
+TRX00661,11/02/2024,18/02/2024,"Hicks, Morton and Smith",Consulting,HR,Risk Service/Product,4,£577.54,"£2,310.16",CON5516,0,0,60
+TRX00662,25/08/2024,24/09/2024,"Reid, Scott and Mckinney",Office Equipment,HR,During Service/Product,10,£259.71,"£2,597.10",,0,0,60
+TRX00663,30/05/2025,19/06/2025,Espinoza-Diaz,Medical Supplies,Operations,Father Service/Product,4,£625.91,"£2,503.64",CON4755,0,0,90
+TRX00664,13/12/2024,05/01/2025,"Smith, Lewis and Gutierrez",Logistics,Admin,Quickly Service/Product,2,£796.28,"£1,592.56",,272.69,149.17,30
+TRX00665,25/12/2024,02/01/2025,Moon-White,Office Equipment,Finance,Shoulder Service/Product,5,£109.51,£547.55,CON4349,93.07,66.39,90
+TRX00666,04/08/2024,29/08/2024,Miller-Gibbs,Office Equipment,HR,Republican Service/Product,3,£738.40,"£2,215.20",CON7986,256.12,251.65,30
+TRX00667,07/09/2023,01/10/2023,Smith PLC,Logistics,HR,Treatment Service/Product,4,£483.80,"£1,935.20",CON4162,0,0,30
+TRX00668,01/05/2025,30/05/2025,Lawrence-Allen,Logistics,IT,Lawyer Service/Product,3,£324.15,£972.45,CON8983,0,0,90
+TRX00669,12/08/2024,03/09/2024,"Barrett, Ramsey and Gonzalez",Office Equipment,Operations,Test Service/Product,1,£881.64,£881.64,CON1986,114.52,62.94,30
+TRX00670,15/03/2025,08/04/2025,Benjamin Group,Facilities Maintenance,HR,Thousand Service/Product,5,£100.76,£503.80,CON9034,0,0,60
+TRX00671,11/10/2024,17/10/2024,Ray-Johnson,Facilities Maintenance,Admin,Computer Service/Product,9,£84.44,£759.96,CON8290,0,0,60
+TRX00672,23/12/2024,06/01/2025,"Crawford, Coffey and Peterson",Facilities Maintenance,HR,Discuss Service/Product,6,£601.15,"£3,606.90",CON5303,0,0,90
+TRX00673,19/08/2023,04/09/2023,Hogan PLC,Medical Supplies,IT,Mind Service/Product,7,£901.44,"£6,310.08",CON4937,0,0,90
+TRX00674,27/10/2023,05/11/2023,Fleming PLC,Logistics,IT,Most Service/Product,2,£16.65,£33.30,CON1670,0,0,60
+TRX00675,18/04/2024,21/04/2024,"Frank, Perez and Williams",IT Services,HR,Strong Service/Product,5,£667.41,"£3,337.05",,0,0,60
+TRX00676,14/02/2025,05/03/2025,Russell Inc,Medical Supplies,HR,Remember Service/Product,4,£681.36,"£2,725.44",CON2488,0,0,60
+TRX00677,19/01/2024,11/02/2024,"Hayes, Smith and Donaldson",Logistics,HR,Positive Service/Product,5,£204.94,"£1,024.70",CON5842,0,0,90
+TRX00678,01/09/2023,30/09/2023,Stephens-Turner,Consulting,Patient Care,Either Service/Product,7,£39.07,£273.49,CON8392,0,0,30
+TRX00679,02/08/2023,09/08/2023,Smith-Smith,IT Services,HR,Quality Service/Product,5,£792.00,"£3,960.00",CON1358,658.58,154.21,60
+TRX00680,01/04/2025,04/04/2025,Weber-Thomas,IT Services,HR,Officer Service/Product,3,£267.76,£803.28,CON2433,0,0,30
+TRX00681,12/05/2024,20/05/2024,Turner-Gutierrez,Facilities Maintenance,IT,Soon Service/Product,8,£802.14,"£6,417.12",CON8658,908.74,187.44,90
+TRX00682,11/11/2024,19/11/2024,Leon Inc,Logistics,Operations,Everybody Service/Product,2,£238.24,£476.48,,0,0,60
+TRX00683,17/03/2024,25/03/2024,Marquez PLC,Consulting,Patient Care,Effort Service/Product,8,£991.39,"£7,931.12",CON4696,1555.3,1210.46,90
+TRX00684,27/08/2023,17/09/2023,Wu-Yang,Consulting,Operations,Rest Service/Product,9,£873.07,"£7,857.63",CON4120,627.23,287.75,60
+TRX00685,29/01/2024,19/02/2024,"King, Blair and Cross",Medical Supplies,IT,Hospital Service/Product,4,£85.20,£340.80,CON4113,0,0,90
+TRX00686,22/05/2025,10/06/2025,"Hall, Duncan and Dickson",Consulting,Finance,Sense Service/Product,4,£117.13,£468.52,,0,0,90
+TRX00687,12/04/2024,15/04/2024,Wilson-Baldwin,Facilities Maintenance,Patient Care,Population Service/Product,6,£793.12,"£4,758.72",CON6426,0,0,90
+TRX00688,25/03/2024,17/04/2024,"Knight, Watkins and Kelly",Medical Supplies,Patient Care,Value Service/Product,3,£51.68,£155.04,CON8868,0,0,60
+TRX00689,09/03/2024,12/03/2024,"Velazquez, Allison and Khan",Medical Supplies,Patient Care,Your Service/Product,5,£36.76,£183.80,,0,0,90
+TRX00690,17/02/2024,12/03/2024,Gillespie Ltd,IT Services,Finance,Defense Service/Product,7,£431.11,"£3,017.77",CON6017,330.7,186.08,30
+TRX00691,01/08/2024,30/08/2024,"Duke, Smith and Reynolds",Consulting,IT,Politics Service/Product,3,£810.96,"£2,432.88",CON7500,0,0,60
+TRX00692,20/04/2024,11/05/2024,"Potter, Reyes and Gomez",Facilities Maintenance,Admin,Wrong Service/Product,10,£881.19,"£8,811.90",CON9911,0,0,60
+TRX00693,04/04/2024,16/04/2024,"Hale, Chavez and Howard",IT Services,Finance,Amount Service/Product,10,£605.34,"£6,053.40",CON1004,0,0,30
+TRX00694,07/07/2025,14/07/2025,Gates and Sons,Facilities Maintenance,Finance,Maybe Service/Product,3,£70.69,£212.07,,0,0,30
+TRX00695,13/06/2024,08/07/2024,"Mcconnell, Rivera and West",Logistics,Finance,Fire Service/Product,3,£285.07,£855.21,CON8910,0,0,90
+TRX00696,27/01/2025,17/02/2025,"Miles, Lopez and Sullivan",Logistics,IT,But Service/Product,7,£837.22,"£5,860.54",CON2418,1137.65,566.96,60
+TRX00697,18/05/2025,23/05/2025,Jones Inc,Logistics,IT,Lose Service/Product,10,£360.63,"£3,606.30",,0,0,30
+TRX00698,10/07/2025,23/07/2025,Gray-Grimes,Logistics,Patient Care,Theory Service/Product,4,£720.42,"£2,881.68",CON5875,430.78,96.6,60
+TRX00699,13/10/2023,22/10/2023,"Myers, Roberts and Anderson",Facilities Maintenance,IT,Factor Service/Product,9,£325.21,"£2,926.89",,545.77,121.79,30
+TRX00700,06/07/2024,14/07/2024,Kim Inc,Facilities Maintenance,Admin,Create Service/Product,2,£899.93,"£1,799.86",CON4033,105.97,61.95,30
+TRX00701,28/06/2024,11/07/2024,Diaz-Newman,Facilities Maintenance,HR,Former Service/Product,7,£319.13,"£2,233.91",CON8072,0,0,60
+TRX00702,08/04/2025,29/04/2025,Gonzalez Ltd,Logistics,Admin,Position Service/Product,9,£873.80,"£7,864.20",CON7942,0,0,90
+TRX00703,28/03/2024,26/04/2024,Lewis-Maxwell,Logistics,HR,Town Service/Product,1,£70.09,£70.09,CON9441,0,0,60
+TRX00704,20/06/2024,20/07/2024,"Hill, Maxwell and Baker",IT Services,Patient Care,Name Service/Product,4,£843.78,"£3,375.12",CON4344,0,0,30
+TRX00705,09/01/2024,02/02/2024,Charles-Garcia,Consulting,HR,Party Service/Product,8,£118.42,£947.36,CON8871,0,0,60
+TRX00706,06/01/2025,29/01/2025,"Norman, Lam and Crawford",Facilities Maintenance,IT,East Service/Product,2,£319.99,£639.98,CON2681,81.12,65.79,60
+TRX00707,30/08/2024,13/09/2024,"Garcia, Shaffer and Jacobson",Facilities Maintenance,Operations,Drive Service/Product,10,£655.19,"£6,551.90",,607.25,202.07,90
+TRX00708,22/07/2024,16/08/2024,Grant-Scott,IT Services,Finance,Happy Service/Product,1,£718.66,£718.66,CON3224,0,0,60
+TRX00709,02/01/2025,12/01/2025,Johnson and Sons,Office Equipment,Admin,Page Service/Product,10,£749.93,"£7,499.30",CON3314,0,0,30
+TRX00710,20/03/2024,23/03/2024,Gonzalez-Wilson,Office Equipment,IT,Idea Service/Product,7,£94.54,£661.78,CON3460,0,0,90
+TRX00711,03/02/2025,01/03/2025,Wright Inc,Medical Supplies,Admin,Property Service/Product,3,£303.27,£909.81,,0,0,30
+TRX00712,15/07/2024,19/07/2024,"Torres, Clark and Vargas",Consulting,Patient Care,Stay Service/Product,3,£569.55,"£1,708.65",,235.74,65.78,30
+TRX00713,15/04/2024,29/04/2024,Turner-King,IT Services,IT,Able Service/Product,2,£992.83,"£1,985.66",,308.59,242.67,90
+TRX00714,21/05/2024,18/06/2024,"Lester, Collier and Anderson",Logistics,Operations,Instead Service/Product,9,£626.37,"£5,637.33",CON2205,0,0,30
+TRX00715,30/04/2025,10/05/2025,"Arias, King and Wilson",Consulting,Finance,Believe Service/Product,6,£275.68,"£1,654.08",CON8315,0,0,60
+TRX00716,02/09/2024,09/09/2024,Rice LLC,Facilities Maintenance,HR,Drop Service/Product,6,£54.65,£327.90,,0,0,30
+TRX00717,24/06/2024,05/07/2024,"Ross, Fisher and Lane",Medical Supplies,HR,Six Service/Product,5,£692.88,"£3,464.40",CON6861,0,0,90
+TRX00718,23/10/2024,10/11/2024,Cole-Collins,Medical Supplies,Admin,Explain Service/Product,2,£114.05,£228.10,,0,0,90
+TRX00719,15/12/2023,27/12/2023,"Brown, Washington and Anderson",Office Equipment,Patient Care,Part Service/Product,9,£571.69,"£5,145.21",,0,0,30
+TRX00720,15/11/2023,09/12/2023,Craig Inc,Facilities Maintenance,Patient Care,Poor Service/Product,6,£275.77,"£1,654.62",CON5091,0,0,30
+TRX00721,27/05/2024,16/06/2024,Moore-Moore,Medical Supplies,Admin,Create Service/Product,7,£443.32,"£3,103.24",CON3747,0,0,30
+TRX00722,28/04/2024,20/05/2024,"Russell, Cook and Martinez",Consulting,Patient Care,Audience Service/Product,1,£966.63,£966.63,,123.89,100.16,60
+TRX00723,01/06/2024,19/06/2024,Burnett Ltd,Consulting,Finance,Many Service/Product,8,£876.78,"£7,014.24",CON9790,0,0,30
+TRX00724,13/06/2025,25/06/2025,"Campbell, Simpson and Young",Logistics,Finance,Child Service/Product,6,£858.24,"£5,149.44",CON4446,0,0,60
+TRX00725,20/08/2024,09/09/2024,Wood Ltd,Medical Supplies,Admin,Protect Service/Product,9,£301.65,"£2,714.85",CON3854,0,0,60
+TRX00726,23/07/2024,01/08/2024,"Williams, Jenkins and Martin",Facilities Maintenance,Patient Care,Key Service/Product,1,£928.71,£928.71,CON6867,0,0,90
+TRX00727,06/10/2023,05/11/2023,Castro-Hayes,IT Services,Patient Care,Still Service/Product,9,£53.52,£481.68,CON8351,0,0,60
+TRX00728,08/11/2023,06/12/2023,Green-Vazquez,Logistics,Finance,Agreement Service/Product,6,£781.79,"£4,690.74",,354.76,80.36,90
+TRX00729,05/04/2025,22/04/2025,Ross Inc,Medical Supplies,Finance,Poor Service/Product,5,£998.82,"£4,994.10",CON3245,567.67,32.99,30
+TRX00730,12/08/2024,02/09/2024,Randolph Ltd,Consulting,Patient Care,Line Service/Product,5,£41.93,£209.65,,0,0,90
+TRX00731,09/12/2023,23/12/2023,Myers Inc,Medical Supplies,Patient Care,Nation Service/Product,7,£174.06,"£1,218.42",CON8893,0,0,90
+TRX00732,26/02/2025,27/03/2025,Lopez-Williams,Office Equipment,Admin,Throughout Service/Product,6,£597.29,"£3,583.74",,465.16,379.13,90
+TRX00733,28/05/2025,20/06/2025,"Hunter, Cannon and Gutierrez",Logistics,Operations,Center Service/Product,2,£757.71,"£1,515.42",,142.27,73.46,30
+TRX00734,26/08/2024,30/08/2024,"Krause, Francis and Hill",Consulting,Finance,Lay Service/Product,8,£42.72,£341.76,,0,0,90
+TRX00735,06/04/2024,10/04/2024,Johnson-Silva,IT Services,HR,Employee Service/Product,3,£231.10,£693.30,CON3666,0,0,60
+TRX00736,07/02/2024,26/02/2024,"Bowman, Johnson and Harris",Facilities Maintenance,Operations,Couple Service/Product,9,£280.23,"£2,522.07",CON5644,220.75,211.7,30
+TRX00737,15/04/2025,12/05/2025,King-Ellison,Logistics,IT,Group Service/Product,3,£393.21,"£1,179.63",CON6388,95.24,3.08,90
+TRX00738,08/05/2024,22/05/2024,Fuller-Hobbs,Logistics,IT,Cause Service/Product,6,£417.96,"£2,507.76",CON6046,167.94,156.56,60
+TRX00739,29/07/2024,11/08/2024,"Schultz, Simpson and Martinez",IT Services,IT,Sit Service/Product,4,£439.71,"£1,758.84",CON2579,0,0,60
+TRX00740,16/11/2024,01/12/2024,Ramirez PLC,Facilities Maintenance,Admin,Game Service/Product,8,£519.22,"£4,153.76",,415.08,127.53,30
+TRX00741,13/04/2024,05/05/2024,Murphy-Young,IT Services,Admin,Would Service/Product,7,£528.92,"£3,702.44",CON9932,0,0,30
+TRX00742,23/09/2024,03/10/2024,"Smith, Vaughn and Branch",Facilities Maintenance,HR,Reduce Service/Product,9,£251.92,"£2,267.28",CON1336,0,0,90
+TRX00743,05/05/2024,04/06/2024,Christensen-Ryan,Medical Supplies,HR,Cell Service/Product,7,£927.67,"£6,493.69",,407.57,201.85,30
+TRX00744,18/08/2023,10/09/2023,Smith PLC,Facilities Maintenance,IT,Upon Service/Product,8,£361.76,"£2,894.08",CON5239,0,0,30
+TRX00745,21/01/2025,04/02/2025,Heath PLC,Consulting,HR,Spend Service/Product,6,£96.80,£580.80,,0,0,60
+TRX00746,04/10/2024,20/10/2024,Smith and Sons,Office Equipment,IT,Trip Service/Product,5,£563.77,"£2,818.85",CON7348,0,0,30
+TRX00747,22/02/2025,21/03/2025,Cervantes-Spears,Consulting,Finance,End Service/Product,1,£32.82,£32.82,CON9017,0,0,90
+TRX00748,30/01/2025,17/02/2025,"Taylor, Franklin and English",Logistics,Operations,Example Service/Product,1,£70.60,£70.60,CON1151,0,0,60
+TRX00749,02/11/2024,22/11/2024,"Murphy, Hall and Rogers",IT Services,HR,Consider Service/Product,2,£537.03,"£1,074.06",CON6003,0,0,90
+TRX00750,13/06/2024,16/06/2024,Thomas-Day,Logistics,HR,Candidate Service/Product,8,£493.39,"£3,947.12",CON4459,0,0,30
+TRX00751,08/08/2024,31/08/2024,Weaver Inc,Consulting,HR,Hit Service/Product,2,£369.91,£739.82,,0,0,30
+TRX00752,08/05/2025,29/05/2025,Ball Ltd,IT Services,Admin,Debate Service/Product,3,£141.35,£424.05,CON1491,0,0,90
+TRX00753,05/10/2023,09/10/2023,"Reynolds, Tran and Macdonald",Medical Supplies,IT,Study Service/Product,7,£16.83,£117.81,CON9510,21.89,9.15,90
+TRX00754,09/03/2025,24/03/2025,"Arnold, Mcintosh and Marshall",Facilities Maintenance,Operations,Write Service/Product,8,£987.89,"£7,903.12",CON3379,0,0,60
+TRX00755,28/04/2024,24/05/2024,Romero-Kelley,Medical Supplies,Finance,Very Service/Product,6,£665.94,"£3,995.64",CON3888,483.05,430.01,30
+TRX00756,26/08/2024,16/09/2024,Wright-Rose,IT Services,HR,Collection Service/Product,9,£169.86,"£1,528.74",,298.65,164.31,30
+TRX00757,23/05/2024,26/05/2024,Lambert Group,Consulting,IT,Free Service/Product,10,£262.02,"£2,620.20",,0,0,30
+TRX00758,28/01/2025,26/02/2025,Lee-Mullins,Medical Supplies,IT,Here Service/Product,9,£321.49,"£2,893.41",CON9293,0,0,60
+TRX00759,27/05/2025,06/06/2025,Hayes PLC,IT Services,Patient Care,Can Service/Product,5,£428.94,"£2,144.70",CON8361,0,0,30
+TRX00760,15/11/2024,09/12/2024,Greer-Cole,Medical Supplies,Admin,Middle Service/Product,2,£493.61,£987.22,CON7518,0,0,90
+TRX00761,23/10/2023,05/11/2023,Carlson-Nichols,IT Services,IT,Several Service/Product,2,£736.92,"£1,473.84",CON6912,293.29,106.73,60
+TRX00762,04/08/2024,09/08/2024,Rogers-Scott,Consulting,Patient Care,Be Service/Product,9,£947.11,"£8,523.99",,0,0,30
+TRX00763,17/11/2024,26/11/2024,"Cobb, Andrews and Higgins",Facilities Maintenance,IT,Body Service/Product,4,£294.50,"£1,178.00",,0,0,90
+TRX00764,25/07/2023,10/08/2023,Johnson LLC,Consulting,Operations,Food Service/Product,10,£362.10,"£3,621.00",CON8880,0,0,90
+TRX00765,22/12/2024,08/01/2025,Swanson PLC,IT Services,Patient Care,Bring Service/Product,4,£161.44,£645.76,CON2857,0,0,90
+TRX00766,02/07/2025,17/07/2025,"Moss, Robertson and Clements",Office Equipment,Operations,Catch Service/Product,9,£510.46,"£4,594.14",CON6957,0,0,60
+TRX00767,09/10/2024,06/11/2024,Perez Ltd,Facilities Maintenance,Patient Care,Visit Service/Product,6,£80.09,£480.54,CON3977,54.86,16.87,90
+TRX00768,30/12/2023,02/01/2024,"Gilbert, Martinez and Hunt",IT Services,Operations,Trip Service/Product,2,£554.24,"£1,108.48",CON9445,0,0,30
+TRX00769,13/03/2024,25/03/2024,Owens Inc,Facilities Maintenance,IT,Put Service/Product,3,£129.38,£388.14,CON4214,0,0,30
+TRX00770,06/02/2024,25/02/2024,Cooper-Gibson,IT Services,Admin,Gun Service/Product,3,£281.40,£844.20,CON1328,60.94,22.93,30
+TRX00771,09/09/2024,03/10/2024,Sanders and Sons,IT Services,IT,Assume Service/Product,3,£450.50,"£1,351.50",,0,0,60
+TRX00772,31/10/2023,20/11/2023,Ponce PLC,IT Services,IT,When Service/Product,2,£94.09,£188.18,,0,0,60
+TRX00773,23/02/2025,12/03/2025,Ramirez-Morgan,Medical Supplies,Operations,Guy Service/Product,1,£34.14,£34.14,,5.62,0.09,60
+TRX00774,29/03/2024,07/04/2024,Elliott-Knapp,IT Services,Operations,Store Service/Product,9,£130.41,"£1,173.69",,0,0,30
+TRX00775,16/08/2024,04/09/2024,Morrison Ltd,Medical Supplies,Operations,Cover Service/Product,4,£303.06,"£1,212.24",CON3708,0,0,90
+TRX00776,07/04/2025,06/05/2025,"Bennett, Jackson and Johnson",Office Equipment,IT,Tree Service/Product,2,£774.72,"£1,549.44",,0,0,30
+TRX00777,30/11/2024,05/12/2024,May-Palmer,Facilities Maintenance,Finance,Travel Service/Product,9,£720.55,"£6,484.95",CON9627,0,0,60
+TRX00778,06/11/2024,19/11/2024,Blanchard-Payne,IT Services,Admin,Black Service/Product,9,£717.51,"£6,457.59",CON6081,0,0,60
+TRX00779,12/09/2023,30/09/2023,Gray LLC,Medical Supplies,IT,They Service/Product,10,£272.83,"£2,728.30",CON8352,0,0,30
+TRX00780,31/07/2024,20/08/2024,Hunt Group,Logistics,IT,Draw Service/Product,4,£822.56,"£3,290.24",,0,0,90
+TRX00781,03/11/2024,11/11/2024,"Simmons, Hudson and Haney",IT Services,Finance,Environment Service/Product,9,£275.80,"£2,482.20",CON5680,0,0,30
+TRX00782,14/10/2023,17/10/2023,White Group,IT Services,Admin,Nation Service/Product,10,£229.26,"£2,292.60",CON1916,0,0,90
+TRX00783,07/02/2025,15/02/2025,Roberts-Rodriguez,Logistics,Admin,Read Service/Product,6,£731.54,"£4,389.24",CON4761,0,0,60
+TRX00784,25/12/2024,07/01/2025,Davis-Stokes,Medical Supplies,IT,Should Service/Product,9,£540.27,"£4,862.43",CON7154,0,0,60
+TRX00785,14/09/2023,22/09/2023,"Chapman, Jarvis and Sanford",Logistics,Patient Care,Trouble Service/Product,9,£850.91,"£7,658.19",CON8860,433.16,195.33,60
+TRX00786,09/04/2024,18/04/2024,Moore Group,Medical Supplies,IT,Someone Service/Product,10,£816.30,"£8,163.00",CON8137,1155.26,816.67,60
+TRX00787,24/10/2024,28/10/2024,Adkins-Murphy,IT Services,HR,Role Service/Product,9,£678.73,"£6,108.57",CON9649,0,0,30
+TRX00788,30/10/2023,28/11/2023,"Brown, Lawrence and Sanchez",Logistics,Operations,Enough Service/Product,3,£365.32,"£1,095.96",CON3440,0,0,30
+TRX00789,08/10/2024,30/10/2024,"Carpenter, Adams and Long",IT Services,Operations,Full Service/Product,2,£561.39,"£1,122.78",,0,0,30
+TRX00790,31/07/2023,29/08/2023,"Campos, Lynch and Morris",Logistics,Admin,Later Service/Product,10,£253.62,"£2,536.20",CON3145,0,0,60
+TRX00791,30/01/2024,18/02/2024,Jones Inc,Medical Supplies,Patient Care,Case Service/Product,4,£875.76,"£3,503.04",CON4536,0,0,90
+TRX00792,27/01/2024,04/02/2024,Newman-Horton,Facilities Maintenance,Operations,Industry Service/Product,3,£329.97,£989.91,,129,10.52,60
+TRX00793,10/10/2023,14/10/2023,"Nguyen, Rogers and Jones",Office Equipment,HR,Result Service/Product,8,£382.68,"£3,061.44",CON9282,240.8,238.22,60
+TRX00794,28/09/2023,09/10/2023,Mccormick PLC,Logistics,IT,Over Service/Product,1,£768.92,£768.92,,0,0,30
+TRX00795,27/12/2023,04/01/2024,Howell and Sons,Facilities Maintenance,Operations,Herself Service/Product,2,£349.92,£699.84,CON5879,0,0,60
+TRX00796,23/06/2025,29/06/2025,Schmidt LLC,Facilities Maintenance,Operations,Head Service/Product,4,£666.48,"£2,665.92",,0,0,60
+TRX00797,07/12/2023,14/12/2023,"Martin, King and Warren",Medical Supplies,Patient Care,Least Service/Product,5,£713.05,"£3,565.25",,0,0,90
+TRX00798,17/04/2025,24/04/2025,Stevens-Barron,Office Equipment,Patient Care,Amount Service/Product,7,£808.61,"£5,660.27",,699.83,680.35,30
+TRX00799,29/09/2024,12/10/2024,"Walker, Boyd and Galloway",Facilities Maintenance,Admin,Type Service/Product,2,£492.00,£984.00,,0,0,60
+TRX00800,24/11/2023,08/12/2023,Herman Group,Logistics,IT,Relate Service/Product,7,£809.13,"£5,663.91",CON4597,0,0,60
+TRX00801,20/06/2024,26/06/2024,Morris Ltd,Consulting,HR,Word Service/Product,7,£583.51,"£4,084.57",,659.95,396.23,90
+TRX00802,17/08/2023,11/09/2023,"Hansen, Mccullough and Cooper",Medical Supplies,Patient Care,Identify Service/Product,3,£817.92,"£2,453.76",CON3613,0,0,90
+TRX00803,26/07/2023,31/07/2023,Blake Group,Logistics,Patient Care,Somebody Service/Product,1,£126.59,£126.59,CON7713,0,0,60
+TRX00804,19/05/2024,17/06/2024,Martinez Group,IT Services,Patient Care,Cold Service/Product,7,£173.85,"£1,216.95",,0,0,30
+TRX00805,13/03/2025,30/03/2025,"Anderson, Weiss and Foster",Consulting,IT,Term Service/Product,6,£983.03,"£5,898.18",,0,0,30
+TRX00806,10/03/2024,05/04/2024,Brown-Morrow,Medical Supplies,Admin,Several Service/Product,7,£319.98,"£2,239.86",,0,0,30
+TRX00807,09/09/2024,02/10/2024,"Rangel, Blair and Greene",Office Equipment,Operations,Person Service/Product,7,£12.39,£86.73,CON6583,15.18,3.03,60
+TRX00808,28/03/2025,06/04/2025,Rivera LLC,Facilities Maintenance,IT,More Service/Product,4,£55.89,£223.56,CON8216,0,0,60
+TRX00809,22/07/2023,10/08/2023,Boyle and Sons,IT Services,Patient Care,Represent Service/Product,1,£435.25,£435.25,CON5343,41.48,29.81,60
+TRX00810,20/08/2024,16/09/2024,Sheppard Inc,Medical Supplies,Finance,Reveal Service/Product,6,£707.04,"£4,242.24",CON4036,0,0,60
+TRX00811,19/02/2024,15/03/2024,Howell PLC,Facilities Maintenance,Patient Care,Personal Service/Product,10,£483.86,"£4,838.60",CON5776,515.98,446.58,90
+TRX00812,04/11/2023,08/11/2023,Fisher-Moss,IT Services,Finance,Become Service/Product,7,£405.39,"£2,837.73",CON1577,299.27,200.92,30
+TRX00813,09/12/2024,24/12/2024,"Byrd, Evans and Lewis",Medical Supplies,Admin,Own Service/Product,8,£372.94,"£2,983.52",CON7702,427.54,255.07,60
+TRX00814,02/03/2025,15/03/2025,Robinson Inc,Consulting,Finance,Certainly Service/Product,9,£796.40,"£7,167.60",CON4969,0,0,90
+TRX00815,18/04/2025,11/05/2025,Hansen-Burgess,Logistics,Finance,Moment Service/Product,2,£872.21,"£1,744.42",,0,0,30
+TRX00816,25/02/2024,26/03/2024,Stone-Lewis,IT Services,Finance,Bag Service/Product,10,£482.55,"£4,825.50",,0,0,30
+TRX00817,07/05/2024,13/05/2024,"Allen, Johnson and Beard",Medical Supplies,Operations,Doctor Service/Product,10,£426.92,"£4,269.20",CON2358,749.98,2.09,60
+TRX00818,08/06/2024,29/06/2024,Byrd Group,Medical Supplies,HR,Her Service/Product,5,£521.89,"£2,609.45",,0,0,90
+TRX00819,29/01/2025,20/02/2025,Gregory Ltd,IT Services,Admin,Difficult Service/Product,10,£398.65,"£3,986.50",,771.37,90.68,90
+TRX00820,04/10/2023,25/10/2023,Schneider-Heath,IT Services,Admin,Western Service/Product,1,£680.66,£680.66,,0,0,90
+TRX00821,06/07/2024,16/07/2024,Smith LLC,IT Services,IT,Member Service/Product,8,£680.61,"£5,444.88",CON5731,277.91,149.49,30
+TRX00822,22/12/2023,11/01/2024,"Day, Chapman and Buckley",Medical Supplies,Operations,Actually Service/Product,5,£621.37,"£3,106.85",CON3332,0,0,60
+TRX00823,25/02/2024,13/03/2024,"Brewer, Peters and Downs",Office Equipment,Patient Care,All Service/Product,9,£84.16,£757.44,,109.21,61.36,30
+TRX00824,27/01/2025,17/02/2025,Hall-Flores,Logistics,Patient Care,Though Service/Product,2,£392.79,£785.58,,82.02,7.17,60
+TRX00825,14/09/2024,22/09/2024,Glass-Martin,Office Equipment,HR,Area Service/Product,5,£874.68,"£4,373.40",CON9266,0,0,90
+TRX00826,05/10/2023,13/10/2023,"Miller, Johnson and Brooks",Medical Supplies,Operations,Set Service/Product,5,£870.41,"£4,352.05",CON1346,0,0,60
+TRX00827,14/10/2024,28/10/2024,Lee-James,Office Equipment,Operations,Put Service/Product,1,£816.46,£816.46,,0,0,60
+TRX00828,10/04/2024,01/05/2024,Bailey PLC,Medical Supplies,Finance,Catch Service/Product,10,£529.34,"£5,293.40",CON6148,591.51,229.44,60
+TRX00829,14/07/2024,03/08/2024,Fernandez LLC,IT Services,Operations,Move Service/Product,9,£971.22,"£8,740.98",,0,0,30
+TRX00830,11/07/2024,08/08/2024,Taylor LLC,Logistics,Admin,General Service/Product,8,£355.92,"£2,847.36",CON9205,0,0,90
+TRX00831,14/10/2024,11/11/2024,"Walker, Alexander and Whitehead",Logistics,Finance,Coach Service/Product,10,£300.04,"£3,000.40",CON8758,0,0,60
+TRX00832,17/11/2023,14/12/2023,Bailey and Sons,Consulting,Admin,When Service/Product,1,£567.12,£567.12,CON2547,103.38,16.78,90
+TRX00833,10/06/2024,04/07/2024,Rodriguez-Welch,IT Services,Operations,Tonight Service/Product,6,£945.92,"£5,675.52",,1104.98,394.22,90
+TRX00834,10/08/2024,06/09/2024,Little-Hicks,Medical Supplies,HR,Money Service/Product,9,£475.52,"£4,279.68",CON1596,0,0,90
+TRX00835,10/03/2024,01/04/2024,"Cox, Perkins and Murray",Facilities Maintenance,HR,Company Service/Product,7,£424.04,"£2,968.28",CON8566,0,0,90
+TRX00836,16/07/2024,11/08/2024,Washington-Mcdonald,IT Services,Patient Care,Ground Service/Product,1,£937.43,£937.43,CON9899,0,0,90
+TRX00837,20/02/2025,11/03/2025,Perez-Flores,IT Services,Admin,Out Service/Product,4,£910.64,"£3,642.56",CON8541,0,0,90
+TRX00838,22/07/2024,19/08/2024,Daniels-Gomez,IT Services,IT,Candidate Service/Product,5,£105.26,£526.30,CON1630,0,0,60
+TRX00839,06/03/2025,21/03/2025,Rogers Group,Facilities Maintenance,HR,Through Service/Product,3,£175.49,£526.47,CON8419,40.29,25.35,60
+TRX00840,28/10/2023,10/11/2023,"Campbell, Brown and Cox",IT Services,Admin,Job Service/Product,8,£561.71,"£4,493.68",,0,0,90
+TRX00841,22/08/2024,08/09/2024,"Hoover, Hutchinson and Richardson",Medical Supplies,HR,Where Service/Product,6,£239.22,"£1,435.32",CON2544,0,0,60
+TRX00842,14/08/2024,21/08/2024,Moore-Gonzales,Medical Supplies,Admin,Health Service/Product,9,£283.17,"£2,548.53",CON4514,0,0,30
+TRX00843,20/10/2023,06/11/2023,Richardson PLC,Medical Supplies,Operations,Enough Service/Product,7,£913.07,"£6,391.49",,1093.79,1077.53,60
+TRX00844,21/06/2024,01/07/2024,Brown-Silva,Logistics,Finance,Agreement Service/Product,2,£719.90,"£1,439.80",CON8439,0,0,30
+TRX00845,08/03/2025,30/03/2025,"Wilson, Wright and Edwards",Office Equipment,Operations,Anything Service/Product,3,£462.84,"£1,388.52",CON1809,0,0,60
+TRX00846,06/03/2025,16/03/2025,Lam-Romero,Medical Supplies,HR,Need Service/Product,5,£876.65,"£4,383.25",CON4264,243.74,90.17,30
+TRX00847,30/07/2024,16/08/2024,Caldwell and Sons,Consulting,HR,Key Service/Product,8,£387.42,"£3,099.36",,509.25,490.63,30
+TRX00848,13/01/2024,06/02/2024,Cabrera Inc,IT Services,HR,Form Service/Product,2,£934.70,"£1,869.40",CON9534,0,0,90
+TRX00849,28/10/2023,15/11/2023,"Torres, Matthews and Nelson",Consulting,Admin,Begin Service/Product,2,£131.96,£263.92,CON7267,0,0,90
+TRX00850,13/07/2024,20/07/2024,"Moore, Acosta and Young",Facilities Maintenance,Patient Care,Choice Service/Product,4,£957.59,"£3,830.36",CON7360,0,0,90
+TRX00851,25/12/2023,21/01/2024,Mitchell-Marshall,Consulting,Admin,Rest Service/Product,8,£38.43,£307.44,CON8260,0,0,30
+TRX00852,11/11/2024,14/11/2024,"Smith, Gonzalez and Scott",Office Equipment,HR,Floor Service/Product,3,£299.91,£899.73,CON9873,153.1,54.82,60
+TRX00853,04/12/2023,16/12/2023,"Hamilton, Cox and Nash",Facilities Maintenance,IT,Just Service/Product,4,£62.54,£250.16,CON3931,43.85,24.01,90
+TRX00854,13/10/2024,24/10/2024,Lloyd-Wood,Logistics,Patient Care,Sea Service/Product,8,£845.62,"£6,764.96",CON7199,572.49,295.34,60
+TRX00855,11/06/2025,30/06/2025,Figueroa-Morales,Logistics,Finance,Probably Service/Product,8,£686.51,"£5,492.08",CON5599,0,0,30
+TRX00856,27/04/2024,04/05/2024,"Roberts, Martin and Cline",IT Services,Finance,Financial Service/Product,9,£778.02,"£7,002.18",,0,0,30
+TRX00857,24/06/2024,20/07/2024,"Collins, Smith and Hayes",IT Services,HR,Laugh Service/Product,6,£450.48,"£2,702.88",CON5164,411,205.96,60
+TRX00858,17/07/2024,10/08/2024,Jensen-Terrell,Medical Supplies,IT,Door Service/Product,7,£122.82,£859.74,CON2640,0,0,60
+TRX00859,11/09/2023,27/09/2023,"Dawson, Parker and Torres",Consulting,Operations,Score Service/Product,10,£138.84,"£1,388.40",CON7984,0,0,30
+TRX00860,26/10/2023,17/11/2023,Peters and Sons,Facilities Maintenance,HR,Over Service/Product,2,£68.47,£136.94,CON2039,0,0,30
+TRX00861,01/05/2025,05/05/2025,"Morgan, Graham and Dunlap",Logistics,Finance,Not Service/Product,10,£408.09,"£4,080.90",CON6306,520.76,360.43,30
+TRX00862,15/12/2023,08/01/2024,"Gibbs, Lara and Gates",Medical Supplies,Operations,Phone Service/Product,7,£212.98,"£1,490.86",CON1429,0,0,30
+TRX00863,03/02/2024,09/02/2024,Coleman-Burke,Office Equipment,Patient Care,Become Service/Product,3,£737.89,"£2,213.67",CON6027,205.48,109.24,90
+TRX00864,31/07/2023,09/08/2023,Dean Group,Consulting,Finance,Old Service/Product,7,£521.34,"£3,649.38",CON7350,0,0,30
+TRX00865,22/09/2024,26/09/2024,"Sellers, Thomas and Herrera",Facilities Maintenance,Admin,Upon Service/Product,7,£311.22,"£2,178.54",,0,0,30
+TRX00866,16/05/2024,29/05/2024,Lynch PLC,IT Services,HR,High Service/Product,4,£599.27,"£2,397.08",CON3558,385.2,32.52,60
+TRX00867,15/07/2024,02/08/2024,Brown-Williams,Facilities Maintenance,Finance,Treat Service/Product,7,£451.26,"£3,158.82",,172.43,78.06,90
+TRX00868,18/05/2025,27/05/2025,Mann-Boyd,Consulting,Patient Care,Wait Service/Product,6,£427.58,"£2,565.48",CON2102,0,0,30
+TRX00869,11/03/2025,06/04/2025,Clark-Williams,Medical Supplies,Operations,Hundred Service/Product,2,£205.61,£411.22,CON8744,0,0,30
+TRX00870,31/10/2024,29/11/2024,"Young, Rogers and Jones",Logistics,Operations,Up Service/Product,8,£583.09,"£4,664.72",,0,0,30
+TRX00871,21/07/2023,03/08/2023,Miller-Baldwin,Facilities Maintenance,Patient Care,Public Service/Product,7,£929.84,"£6,508.88",,0,0,60
+TRX00872,10/06/2024,15/06/2024,"Perez, Shah and Woods",Consulting,Patient Care,Crime Service/Product,8,£962.34,"£7,698.72",,0,0,60
+TRX00873,04/03/2024,01/04/2024,Brown-Hernandez,Office Equipment,HR,Group Service/Product,7,£199.03,"£1,393.21",CON1304,0,0,30
+TRX00874,19/02/2024,25/02/2024,Wallace-Reynolds,Logistics,Operations,Myself Service/Product,2,£897.32,"£1,794.64",CON2324,195.14,73.91,90
+TRX00875,19/06/2024,24/06/2024,Rodriguez PLC,Office Equipment,Operations,Strategy Service/Product,2,£29.00,£58.00,CON7742,6.44,1.48,60
+TRX00876,15/07/2025,01/08/2025,"Gomez, Lawrence and Klein",Facilities Maintenance,Finance,Everyone Service/Product,8,£360.41,"£2,883.28",CON1813,353.7,8.14,90
+TRX00877,16/11/2023,04/12/2023,Ortiz Inc,Office Equipment,Operations,Several Service/Product,5,£752.82,"£3,764.10",,0,0,90
+TRX00878,28/01/2024,16/02/2024,Patel Group,Logistics,Operations,Republican Service/Product,3,£910.66,"£2,731.98",,0,0,90
+TRX00879,02/11/2024,27/11/2024,"Hall, Morris and Soto",Logistics,IT,Popular Service/Product,2,£511.65,"£1,023.30",CON8712,170.24,34.33,30
+TRX00880,01/12/2023,17/12/2023,"Wolfe, Fuller and Hunt",Office Equipment,IT,Each Service/Product,4,£462.25,"£1,849.00",,0,0,90
+TRX00881,07/03/2024,24/03/2024,Ramirez-Pacheco,Facilities Maintenance,Finance,Form Service/Product,10,£876.46,"£8,764.60",CON8973,0,0,60
+TRX00882,19/08/2024,23/08/2024,"Liu, Nguyen and Bradford",Logistics,Admin,Soldier Service/Product,4,£84.30,£337.20,CON6173,0,0,30
+TRX00883,19/09/2023,29/09/2023,Huang-Hampton,Logistics,IT,Item Service/Product,3,£230.90,£692.70,,0,0,90
+TRX00884,02/04/2024,08/04/2024,Michael-Chen,Medical Supplies,Finance,Great Service/Product,5,£472.86,"£2,364.30",,0,0,90
+TRX00885,04/05/2025,26/05/2025,Campbell-Juarez,Consulting,Admin,Democratic Service/Product,1,£475.90,£475.90,CON8438,0,0,30
+TRX00886,28/10/2023,17/11/2023,"Barnes, Brown and Lee",Consulting,Patient Care,Like Service/Product,3,£461.80,"£1,385.40",CON6155,194.07,54.02,30
+TRX00887,22/07/2024,01/08/2024,Harris-Davidson,Logistics,IT,Job Service/Product,7,£126.83,£887.81,CON5637,0,0,30
+TRX00888,23/08/2024,21/09/2024,Hernandez LLC,Medical Supplies,HR,By Service/Product,1,£782.96,£782.96,CON7345,0,0,90
+TRX00889,01/10/2024,15/10/2024,Haley PLC,Medical Supplies,Finance,Compare Service/Product,10,£745.50,"£7,455.00",,0,0,60
+TRX00890,15/12/2024,04/01/2025,Wong-Allen,Logistics,IT,Term Service/Product,3,£615.01,"£1,845.03",,0,0,90
+TRX00891,07/06/2024,20/06/2024,"Chase, Rivera and Clark",Office Equipment,Patient Care,Person Service/Product,10,£930.87,"£9,308.70",CON2879,0,0,30
+TRX00892,16/12/2023,31/12/2023,Schneider Group,IT Services,IT,Everyone Service/Product,9,£83.25,£749.25,CON8141,0,0,30
+TRX00893,14/03/2024,24/03/2024,"Burnett, Parrish and Thompson",Logistics,Finance,Thank Service/Product,1,£912.85,£912.85,CON1713,0,0,90
+TRX00894,12/09/2024,08/10/2024,"Nelson, Levine and Townsend",Medical Supplies,Patient Care,Fast Service/Product,9,£401.72,"£3,615.48",CON1589,0,0,60
+TRX00895,11/10/2023,04/11/2023,Nicholson-Farmer,Consulting,IT,Quickly Service/Product,6,£560.97,"£3,365.82",CON7433,412.38,156.07,30
+TRX00896,25/02/2024,13/03/2024,"Miles, Bailey and Robinson",Office Equipment,HR,Form Service/Product,6,£125.18,£751.08,,0,0,30
+TRX00897,17/03/2024,23/03/2024,"Joseph, Burgess and Rivas",IT Services,Operations,Mention Service/Product,1,£944.38,£944.38,,0,0,90
+TRX00898,20/05/2024,25/05/2024,Mcfarland-Gibson,IT Services,HR,Capital Service/Product,3,£793.83,"£2,381.49",CON2040,368.18,355.91,90
+TRX00899,10/04/2024,24/04/2024,White Inc,Medical Supplies,Operations,Area Service/Product,5,£600.93,"£3,004.65",CON6995,0,0,60
+TRX00900,19/12/2024,28/12/2024,Farrell Group,Office Equipment,Operations,Hear Service/Product,9,£519.96,"£4,679.64",,0,0,90
+TRX00901,30/06/2025,10/07/2025,Haley and Sons,IT Services,Operations,Garden Service/Product,9,£302.29,"£2,720.61",CON7297,395.76,163.58,60
+TRX00902,26/01/2024,29/01/2024,Smith Group,Office Equipment,IT,Close Service/Product,3,£182.68,£548.04,,0,0,90
+TRX00903,21/03/2024,13/04/2024,Stone and Sons,Medical Supplies,Patient Care,Along Service/Product,3,£640.56,"£1,921.68",,0,0,90
+TRX00904,16/10/2023,30/10/2023,"Fowler, Alvarez and Lindsey",Medical Supplies,Operations,Again Service/Product,9,£124.65,"£1,121.85",,0,0,90
+TRX00905,02/11/2023,23/11/2023,Cruz-Garcia,Medical Supplies,Admin,Financial Service/Product,9,£557.31,"£5,015.79",CON5026,0,0,90
+TRX00906,12/01/2024,30/01/2024,Miller Ltd,IT Services,IT,Soldier Service/Product,5,£818.35,"£4,091.75",,393.35,25.38,60
+TRX00907,19/12/2024,30/12/2024,"Orozco, Baldwin and King",Logistics,HR,Audience Service/Product,6,£422.24,"£2,533.44",,0,0,60
+TRX00908,04/07/2024,31/07/2024,"Moore, Reed and Phillips",Consulting,Operations,School Service/Product,6,£830.43,"£4,982.58",CON4028,0,0,30
+TRX00909,25/04/2024,30/04/2024,"Decker, Morales and Orozco",Logistics,Patient Care,Decade Service/Product,6,£999.70,"£5,998.20",CON3370,1041.01,45.96,90
+TRX00910,20/04/2025,27/04/2025,"Rodriguez, Brown and Chang",Facilities Maintenance,Operations,Nation Service/Product,6,£307.10,"£1,842.60",,270.17,236.63,90
+TRX00911,07/02/2025,24/02/2025,Brown-Benson,IT Services,HR,Course Service/Product,8,£695.31,"£5,562.48",CON8144,0,0,30
+TRX00912,01/08/2024,31/08/2024,Medina-Coleman,IT Services,Operations,Knowledge Service/Product,1,£894.62,£894.62,CON2593,0,0,30
+TRX00913,13/02/2024,01/03/2024,Larson-Ferguson,Facilities Maintenance,Finance,Field Service/Product,4,£516.78,"£2,067.12",CON1660,0,0,60
+TRX00914,03/12/2024,16/12/2024,"Cross, Roth and Morgan",Facilities Maintenance,Finance,Teach Service/Product,5,£970.14,"£4,850.70",CON5115,0,0,90
+TRX00915,15/01/2024,29/01/2024,"Colon, Valencia and Bryant",IT Services,Operations,Movement Service/Product,4,£754.83,"£3,019.32",CON9018,0,0,60
+TRX00916,01/03/2025,17/03/2025,Miller-Barrett,Medical Supplies,Patient Care,Not Service/Product,10,£857.44,"£8,574.40",,1679.66,716.3,60
+TRX00917,15/05/2025,31/05/2025,"Porter, English and Weeks",Office Equipment,IT,Program Service/Product,2,£700.49,"£1,400.98",CON6734,0,0,90
+TRX00918,09/10/2024,17/10/2024,Dorsey Inc,Consulting,HR,Cover Service/Product,2,£141.61,£283.22,CON5284,0,0,30
+TRX00919,12/04/2024,19/04/2024,"Sanchez, Whitney and Wood",IT Services,Admin,Senior Service/Product,9,£912.37,"£8,211.33",CON9244,0,0,30
+TRX00920,16/05/2024,12/06/2024,Hayes Ltd,Consulting,Admin,Ball Service/Product,8,£171.57,"£1,372.56",CON9434,81.82,54.54,30
+TRX00921,04/05/2024,20/05/2024,"Carlson, Floyd and Gray",Logistics,Patient Care,Attorney Service/Product,7,£73.52,£514.64,CON4728,0,0,90
+TRX00922,18/03/2025,14/04/2025,Reed-Romero,Facilities Maintenance,Patient Care,Eat Service/Product,10,£205.56,"£2,055.60",CON8660,314.52,24.08,60
+TRX00923,03/07/2024,19/07/2024,Lutz-Adams,Office Equipment,IT,Wife Service/Product,3,£399.04,"£1,197.12",,109.39,30.54,90
+TRX00924,09/12/2024,27/12/2024,Abbott Group,Medical Supplies,Patient Care,Stand Service/Product,3,£424.38,"£1,273.14",CON2914,0,0,60
+TRX00925,11/04/2025,11/05/2025,"Ballard, Patel and Manning",Facilities Maintenance,Patient Care,Against Service/Product,2,£992.80,"£1,985.60",CON4953,0,0,60
+TRX00926,22/02/2024,28/02/2024,"Shepard, Ellison and Simmons",Facilities Maintenance,Finance,Investment Service/Product,4,£533.03,"£2,132.12",CON5453,0,0,60
+TRX00927,20/07/2024,19/08/2024,Freeman-Smith,Medical Supplies,Operations,Majority Service/Product,1,£735.70,£735.70,CON2163,0,0,90
+TRX00928,04/08/2023,02/09/2023,Cruz-Ramirez,Consulting,Admin,Class Service/Product,6,£17.73,£106.38,CON7905,11.4,6.07,90
+TRX00929,03/01/2025,28/01/2025,"Moreno, Sanchez and Walker",IT Services,IT,Base Service/Product,6,£113.71,£682.26,,132.61,100.15,90
+TRX00930,16/10/2023,30/10/2023,"Johnson, Gomez and Morris",Logistics,Operations,Manager Service/Product,10,£200.23,"£2,002.30",,177.13,85.79,60
+TRX00931,29/08/2023,03/09/2023,Aguirre-Cobb,IT Services,Finance,Cell Service/Product,9,£189.17,"£1,702.53",CON6271,240.89,150.15,90
+TRX00932,04/10/2024,27/10/2024,Mata-Novak,Facilities Maintenance,IT,Prove Service/Product,5,£193.81,£969.05,,0,0,90
+TRX00933,21/08/2024,09/09/2024,"Hughes, Lynch and Atkins",Facilities Maintenance,Operations,Plan Service/Product,8,£853.22,"£6,825.76",CON6300,0,0,60
+TRX00934,01/09/2024,27/09/2024,"Carter, Henderson and Marsh",Facilities Maintenance,Patient Care,Any Service/Product,8,£734.40,"£5,875.20",CON6556,0,0,90
+TRX00935,12/09/2024,04/10/2024,May LLC,IT Services,IT,Treat Service/Product,2,£998.72,"£1,997.44",CON5721,0,0,90
+TRX00936,07/10/2023,21/10/2023,"Price, King and West",Consulting,Operations,Administration Service/Product,6,£654.61,"£3,927.66",CON1317,211.94,110.45,90
+TRX00937,15/01/2025,25/01/2025,Harris-Gregory,Office Equipment,Finance,Year Service/Product,10,£241.59,"£2,415.90",CON6776,0,0,90
+TRX00938,12/08/2023,28/08/2023,Gibson-Jensen,IT Services,Operations,Raise Service/Product,1,£903.08,£903.08,,0,0,90
+TRX00939,15/12/2024,02/01/2025,Hayes-Perry,Office Equipment,Finance,Live Service/Product,10,£274.86,"£2,748.60",,0,0,60
+TRX00940,02/06/2025,02/07/2025,Ford PLC,Medical Supplies,Operations,Range Service/Product,8,£28.85,£230.80,CON1537,0,0,90
+TRX00941,09/05/2024,21/05/2024,"Parker, Ortiz and Ortiz",Consulting,Patient Care,None Service/Product,8,£925.76,"£7,406.08",CON3392,0,0,60
+TRX00942,15/11/2024,28/11/2024,Rodriguez-Wright,Facilities Maintenance,Operations,Maybe Service/Product,8,£44.84,£358.72,,0,0,90
+TRX00943,25/09/2024,24/10/2024,Thompson Ltd,Consulting,Finance,World Service/Product,5,£434.51,"£2,172.55",CON3338,244.72,161.64,90
+TRX00944,20/06/2025,10/07/2025,"Brown, Jenkins and Martin",Consulting,Finance,Stop Service/Product,3,£923.61,"£2,770.83",,0,0,60
+TRX00945,22/08/2024,01/09/2024,"White, Hunter and Smith",Logistics,IT,Administration Service/Product,9,£567.91,"£5,111.19",CON9817,0,0,60
+TRX00946,29/09/2023,24/10/2023,Warner LLC,Office Equipment,Operations,Indeed Service/Product,9,£301.75,"£2,715.75",CON8242,0,0,60
+TRX00947,06/10/2023,27/10/2023,Hernandez Inc,Medical Supplies,IT,Carry Service/Product,8,£163.17,"£1,305.36",CON1188,0,0,90
+TRX00948,13/01/2025,01/02/2025,Ellison PLC,Facilities Maintenance,Finance,Set Service/Product,8,£268.09,"£2,144.72",CON5826,0,0,90
+TRX00949,31/03/2025,11/04/2025,Schmidt-Burgess,IT Services,Patient Care,Consumer Service/Product,10,£256.02,"£2,560.20",CON5786,484.77,365.93,60
+TRX00950,04/02/2024,20/02/2024,Thomas Group,Office Equipment,HR,Job Service/Product,5,£584.61,"£2,923.05",CON5923,0,0,90
+TRX00951,20/06/2024,19/07/2024,Hurst PLC,Facilities Maintenance,IT,Adult Service/Product,5,£520.01,"£2,600.05",CON7053,375.05,280.41,90
+TRX00952,07/09/2024,04/10/2024,Campbell-Williams,Logistics,Operations,State Service/Product,8,£950.30,"£7,602.40",CON9393,0,0,60
+TRX00953,19/08/2023,22/08/2023,Mendez-Romero,Logistics,Admin,Drive Service/Product,4,£74.94,£299.76,CON7007,26.28,0.63,30
+TRX00954,24/01/2025,17/02/2025,Carter Ltd,Logistics,Finance,Whole Service/Product,2,£533.38,"£1,066.76",,0,0,90
+TRX00955,12/11/2024,08/12/2024,Ryan Group,Medical Supplies,Patient Care,On Service/Product,10,£539.95,"£5,399.50",CON3485,657.29,537.52,30
+TRX00956,12/09/2023,24/09/2023,"Munoz, Warren and Kelley",Medical Supplies,Patient Care,Day Service/Product,1,£438.63,£438.63,,0,0,30
+TRX00957,12/06/2024,24/06/2024,Fernandez and Sons,Facilities Maintenance,IT,Agreement Service/Product,2,£436.16,£872.32,,0,0,90
+TRX00958,08/02/2024,28/02/2024,Daniels Ltd,Logistics,Patient Care,Or Service/Product,7,£575.90,"£4,031.30",,552.68,503.09,60
+TRX00959,02/03/2024,05/03/2024,Huffman LLC,Medical Supplies,IT,Teach Service/Product,3,£637.61,"£1,912.83",,0,0,90
+TRX00960,18/11/2024,14/12/2024,"Matthews, Dean and Harris",Medical Supplies,Finance,Site Service/Product,6,£800.66,"£4,803.96",,0,0,60
+TRX00961,03/05/2025,01/06/2025,"Lopez, Lopez and Barrera",IT Services,Admin,Believe Service/Product,2,£539.66,"£1,079.32",CON1500,0,0,30
+TRX00962,05/10/2024,30/10/2024,Lopez PLC,IT Services,Finance,Talk Service/Product,1,£416.06,£416.06,CON8380,0,0,60
+TRX00963,14/06/2025,24/06/2025,Page-Flores,Medical Supplies,Admin,Claim Service/Product,8,£415.95,"£3,327.60",CON3722,477.51,386.52,60
+TRX00964,03/07/2025,17/07/2025,"Hall, Mueller and Randolph",Logistics,IT,Friend Service/Product,7,£215.07,"£1,505.49",CON9785,239.79,211.36,60
+TRX00965,07/10/2023,17/10/2023,"Beltran, Martinez and Dawson",Logistics,Patient Care,Discuss Service/Product,7,£452.34,"£3,166.38",,265.79,130.68,30
+TRX00966,12/05/2024,06/06/2024,"Fisher, Saunders and Smith",Facilities Maintenance,IT,Station Service/Product,1,£715.34,£715.34,CON3054,0,0,30
+TRX00967,28/05/2024,08/06/2024,"Wise, Jarvis and Leon",Consulting,Patient Care,Save Service/Product,1,£388.74,£388.74,,0,0,30
+TRX00968,06/10/2024,10/10/2024,Rodriguez LLC,Logistics,HR,Movement Service/Product,1,£814.99,£814.99,CON6245,151.14,108.1,30
+TRX00969,05/09/2024,15/09/2024,Hernandez Inc,Facilities Maintenance,IT,Notice Service/Product,9,£123.19,"£1,108.71",,0,0,60
+TRX00970,19/09/2023,13/10/2023,"Hunter, Pena and Edwards",Office Equipment,IT,You Service/Product,2,£25.63,£51.26,,0,0,60
+TRX00971,12/06/2024,15/06/2024,"Wheeler, King and Barber",IT Services,Finance,Tend Service/Product,1,£140.15,£140.15,,27.59,22.12,90
+TRX00972,01/10/2023,07/10/2023,Mack LLC,Medical Supplies,Admin,Music Service/Product,10,£706.28,"£7,062.80",CON8200,0,0,30
+TRX00973,29/03/2024,18/04/2024,Miller-Petersen,Office Equipment,Finance,Soldier Service/Product,8,£618.30,"£4,946.40",,749.79,169.94,90
+TRX00974,01/09/2023,07/09/2023,Randolph Ltd,Logistics,Operations,Might Service/Product,3,£893.90,"£2,681.70",CON6720,0,0,30
+TRX00975,15/03/2025,02/04/2025,"Stephens, Harvey and Charles",Medical Supplies,Operations,Account Service/Product,5,£974.46,"£4,872.30",CON1659,0,0,90
+TRX00976,30/05/2025,02/06/2025,"Hurley, Rivera and Thomas",IT Services,Operations,Company Service/Product,1,£169.52,£169.52,,0,0,90
+TRX00977,09/05/2025,27/05/2025,Mckinney LLC,IT Services,Operations,Tonight Service/Product,2,£582.27,"£1,164.54",,0,0,60
+TRX00978,24/09/2024,15/10/2024,Foster and Sons,Consulting,Admin,Project Service/Product,4,£654.85,"£2,619.40",CON8119,0,0,60
+TRX00979,01/08/2024,25/08/2024,Murray-Peck,Facilities Maintenance,Finance,Than Service/Product,1,£16.01,£16.01,CON6674,0,0,60
+TRX00980,21/07/2023,09/08/2023,Melendez-Logan,Medical Supplies,Finance,Product Service/Product,9,£910.00,"£8,190.00",CON8912,1278.22,306.14,60
+TRX00981,27/08/2024,10/09/2024,Rivera Group,IT Services,IT,Owner Service/Product,7,£424.03,"£2,968.21",,0,0,30
+TRX00982,26/01/2025,05/02/2025,Williams-Rivas,Consulting,Patient Care,Option Service/Product,10,£632.84,"£6,328.40",CON6002,0,0,30
+TRX00983,27/10/2023,08/11/2023,Reed-James,Facilities Maintenance,Admin,About Service/Product,1,£810.31,£810.31,CON3849,0,0,30
+TRX00984,26/06/2025,10/07/2025,Salinas-Taylor,Consulting,Patient Care,They Service/Product,4,£641.57,"£2,566.28",CON4749,488.27,32.64,90
+TRX00985,04/05/2025,25/05/2025,"George, Lopez and Schmidt",Medical Supplies,Operations,Why Service/Product,6,£953.94,"£5,723.64",CON7988,0,0,30
+TRX00986,03/05/2025,17/05/2025,"Elliott, Martin and Huynh",Medical Supplies,Patient Care,But Service/Product,6,£694.97,"£4,169.82",CON2647,0,0,90
+TRX00987,12/11/2023,09/12/2023,Hahn PLC,Office Equipment,HR,Education Service/Product,8,£615.41,"£4,923.28",CON2748,372.12,66.89,90
+TRX00988,04/05/2025,08/05/2025,Mathews-Sheppard,Office Equipment,Finance,Strategy Service/Product,2,£364.25,£728.50,,0,0,90
+TRX00989,15/03/2025,13/04/2025,"Johnson, King and Perry",Facilities Maintenance,IT,General Service/Product,9,£649.37,"£5,844.33",CON2134,0,0,60
+TRX00990,08/12/2023,01/01/2024,West-Williams,Consulting,Patient Care,Create Service/Product,9,£85.56,£770.04,,86.66,45.43,60
+TRX00991,23/01/2024,29/01/2024,Cook LLC,Logistics,Admin,Their Service/Product,9,£93.11,£837.99,CON6561,0,0,30
+TRX00992,14/09/2024,24/09/2024,Pearson-Morales,Logistics,IT,Choose Service/Product,7,£814.49,"£5,701.43",,0,0,60
+TRX00993,17/02/2024,08/03/2024,"Lucas, Booth and Meza",Medical Supplies,Finance,Major Service/Product,4,£62.23,£248.92,CON8229,23.88,1.44,90
+TRX00994,19/08/2023,08/09/2023,"Marshall, Newton and Brown",Office Equipment,Admin,Door Service/Product,10,£281.19,"£2,811.90",,0,0,30
+TRX00995,07/08/2023,03/09/2023,Fitzgerald-Frey,IT Services,IT,Force Service/Product,10,£290.09,"£2,900.90",,454.8,38.76,60
+TRX00996,19/07/2024,09/08/2024,Wu Group,Medical Supplies,IT,Public Service/Product,3,£142.08,£426.24,CON2833,74.33,41.02,30
+TRX00997,14/08/2023,07/09/2023,Schultz Inc,Office Equipment,Operations,Certainly Service/Product,3,£274.77,£824.31,,93.14,59.67,90
+TRX00998,28/05/2025,13/06/2025,Bird-Woodward,IT Services,Finance,Bill Service/Product,2,£519.08,"£1,038.16",CON2223,0,0,90
+TRX00999,11/10/2023,04/11/2023,"Crosby, Hernandez and Richards",Consulting,HR,Natural Service/Product,10,£375.43,"£3,754.30",CON4810,0,0,90
+TRX01000,04/12/2024,02/01/2025,Howard LLC,Consulting,Operations,Break Service/Product,2,£683.62,"£1,367.24",,0,0,90
